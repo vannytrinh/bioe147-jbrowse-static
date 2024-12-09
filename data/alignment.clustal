@@ -1,0 +1,1432 @@
+CLUSTAL format alignment by MAFFT FFT-NS-2 (v7.526)
+
+
+CVA2            ttaaaacagcctgtgggttgcacccacccacagggcccactgggc-gctagcactctggt
+CVB3            ttaaaacagcctgtgggttgatcccacccacagggcccattgggc-gctagcactctggt
+EV              ttaaaatagcctgagggttgttcccacccacagggcccacgtggc-gc-agtactctggt
+EVA             ttaaaacagcctgtgggttgtacccacccacagggcccactgggc-gctagcactctgat
+EVA114          ttaaaacagcctgtgggttgttcccacccacagggcccactgggc-gctagcactctggt
+EVB             ttaaaacagcctgtgggttgttcccacccaca-ggcccattgggc-gctagcactctggt
+EVC             ttaaaacagctctggggttgtacccaccccagaggcccacgtggcggctagtactccggt
+EVD             ttaaaacagctctggggttgttcccaccccagaggcccacgtggcggctagtactccggt
+EVD68           ttaaaacagctctggggttgttccca-ctcaagggcccacgtggcggctagtactctggt
+                ******.***..  ******  **** *.  . ******.  *** ** **.****.*.*
+
+CVA2            atcacgatacctttgtgcgcctgtttt-atatccccaccccgagt--aaacgttagaagt
+CVB3            atcacggtacctttgtgcgcctgtttt-ataccccctcccccaact-gtaacttagaagt
+EV              atcacggtacctttgcacgcctatttt-ataccccttcccc--atc-gtaacttagaagc
+EVA             tctacggaatccttgtgcgcctgtttt-atgtcccttcccccaatcagtaacttagaagc
+EVA114          tctccggaacctttgtgcgcctgttttgaaaccccctcccccaactcgaaacgtagaagt
+EVB             atcacggtacctttgtgcgcctgtttt-acatcccctccccaaatt-gtaatttagaagt
+EVC             attgcggtacccttgtacgcctgtttt-atactcccttccc------gtaacttagacgc
+EVD             accccggtacccttgtacgcctgtttt-atactccctttcc--caa-gtaactttagaag
+EVD68           atctcggtacctttgtacgcctgtttt-a-attccctcccc--aac-gtaacttagaagc
+                 .. **. *.*.***..*****.**** * ...**. ..**      . *   * .. . 
+
+CVA2            tacgca---accccgatcaatagtaggtgtagcactccagctgcatcgagatcaagcact
+CVB3            aac--a--cacaccgatcaacagtcagcgtggcacaccagccacgttttgatcaagcact
+EV              aacaaa--caaactgcccaatagc-agcacaacac-ccagttgtgttaggggcaagcact
+EVA             attgcacctctttcgaccgttagcaggcgtggcgcaccagccatgtcttggtcaagcact
+EVA114          aatgta-cactactgatcagtagcaggcgtggcgcaccagccatgtctcgatcaagcact
+EVB             ttc--a--cacaccgatcattagcaagcgtggcacaccagccatgttttgatcaagcact
+EVC             acaaaa----ccaagttcaatagaagggggtacaaaccagtaccaccacgaacaagcact
+EVD             aaataa--actaatgttcaacaggagggggtacaaaccagtaccaccacgaacacacact
+EVD68           ttttaa--accaaagctcaatagg-tggagcgcaaaccagcgctcttatgagcaagcact
+                     *        * .*. .**   * .  .*.  ****.  . ..  *. ** .****
+
+CVA2            tctgtctccccggaccga-gtatcaatagactgctaacgcggttgaaggagaaaacgttc
+CVB3            tctgttaccccggactga-gtatcaatagactgctcacgcggttgaaggagaaagcgttc
+EV              tctgtttccccggaagggtctgacggtatgctgtacccacggcagaagtatgaccta-cc
+EVA             tctgtttccccggaccga-gtatcaatagactgctcacgcggttgagggagaaaacgtcc
+EVA114          tctgtttccccggactga-gtatcaatagactgctcacgcggttgaaggtgaaaacgtcc
+EVB             tctgttaccccggactga-gtatcaatagaccgctaacgcggttgaaggagaaaacgttc
+EVC             tctgtttccccggtgatg-tcgt--atagactgcttgcgtggttgaaa-gcgacggatcc
+EVD             tctgtttccccggtgaag-ttgc--atagactgtacccacggttgaaa-gcgatgaatcc
+EVD68           tctgtctccccggtgtgg-ttgt--atagactgtccccacggttgaaa-acaacttatcc
+                *****. ******    .  ..   .** .*.*.   *..**. **..   .*   . .*
+
+CVA2            gttacccggccaattacttcgagaagcccagtagtgccgtgaaagttgcggagtgtttcg
+CVB3            gttatccggccaactacttcgaaaaacctagtaacaccgtggaagttgcagagtgtttcg
+EV              gttaaccggccatgtacttcgagaagcctagtaccattatgaaggttgattgatgttacg
+EVA             gttacccggctaactacttcgagaagcctagtagcaccatgaaagttgcagagtgtttcg
+EVA114          gttacccggctaactacttcgagaaacctagtagcaccatagaaactgcagagtgtttcg
+EVB             gttacccggccaactacttcgaaaaacctagtaacaccatggaagttgcggagtgtttcg
+EVC             gttatccgcttatgtacttcgagaagcccagtaccacctcggaatcttcgatgcgttgcg
+EVD             gttacccgcttaggtacttcgagaagcctagtatcatcttggaatcttcgatgcgttgcg
+EVD68           gttaaccgctatagtacttcgagaaacctagtattgccttcggagtgttgatgcgttgcg
+                **** *** .    ********.**.**.**** .... . ... .      ..*** **
+
+CVA2            ctcagca--cttcccccgt--gtagatcaggctgatgagtcaccgcgatccccacaggtg
+CVB3            ctcagca--ctaccccagt--gtagatcaggtcgatgagtcaccgcattccccacgggcg
+EV              ctcccca-gcaaccccagctggtagttctggtcgatgagtctcggcattccccacgggcg
+EVA             ctcagca--cttcccccgt--gtagatcaggtcgatgagtcactgcgatccccacgggcg
+EVA114          ctcagca--cttcccccgt--gtagatcaggtcgatgagtcactgcaatccccacgggtg
+EVB             ctcagca--ctaccccagt--gtagatcaggtcgatgagtcaccgcgttccccacgggcg
+EVC             ctcagcactcaaccccagagtgtagcttaggctgatgagtctggacatccctcaccggtg
+EVD             atcagcactctaccccgagt-gtagcttgggtcgatgagtctggacaccccacaccggcg
+EVD68           ctcagcacactaacccgtgt-gtagcttgggtcgatgagtctggacgtaccccactggcg
+                 **  **  *   ***     **** *. **..********   .*.  ** *** **.*
+
+CVA2            actgtggcggtggctgcgttggcggcctgcctatggggcaacccataggacgctctaata
+CVB3            accgtggcggtggctgcgttggcggcctgcccatggggaaacccatgggacgctctaata
+EV              accgtggccgaggctgcgttggcggccagcctacaccatacggtgtaggacgtcaagata
+EVA             accgtggcagtggctgcgttggcggcctgcctgtggggtaacccacaggacgctctaata
+EVA114          accgtggcagtggctgcgttggcggcctgcctatggggcaacccataggacgctctaagg
+EVB             accgtggcggtggctgcgttggcggcctgcctacggggaaacccgtaggacgctctaata
+EVC             acggtggtccaggctgcgttggcggcctacctatggctaacgccatgggacgct-agttg
+EVD             ac-gtggtccaggctgcgttggcggcctacccatggctagcaccatgggacgct-agttg
+EVD68           acagtggtccaggctgcgttggcggcctactcatggtgaaaaccatgagacgct-agaca
+                ** ****.   **************** .*.....    .   .....****..  .  .
+
+CVA2            cagacatggtgcgaagagcctattgagctaattggtagtcctccggcccctgaatgcggc
+CVB3            cagacatggtgcgaagagtctattgagctagttggtagtcctccggcccctgaatgcggc
+EV              ctgacatggtgtgaagagcctattgagctacgtggtagtcctccggcccctgaatgcggc
+EVA             tggacatggtgcaaagagtctattgagctagttagtagtcctccggcccctgaatgcggc
+EVA114          tggacatggtgtgaagagtctattgagctagttagtagtcctccggcccctgaatgcggc
+EVB             cagacatggtgcgaagagtctattgagctagttggtaatcctccggcccctgaatgcggc
+EVC             tgaacaaggtgtgaagagcctattgagctacataagaatcctccggcccctgaatgcggc
+EVD             tgaacaaggtgcgaagagcctattgagctacctgagagtcctccggcccctgaatgcggc
+EVD68           tgaacaaggtgtgaagagtctattgagctgctatagagtcctccggcccctgaatgcggc
+                . .*** ****..*****.**********.    . *.**********************
+
+CVA2            taatcctaactgcggagcacatgccctcaaaccagggggtggtgtgtcgtaacgggtaac
+CVB3            taatcctaactgcggagcacacaccctcaagccagagggcagtgtgtcgtaacgggcaac
+EV              taatcctaactccggagcatccgccagtaagcccactggaagggtgtcgtaatgcgaaag
+EVA             taatcctaactgcggagcacataccctcgacccagggggcagtgtgtcgtaacgggcaac
+EVA114          taatcctaactgtggagcgcatactcccaaaccagggagcagtgcgtcgtaacgggcaac
+EVB             taatcctaactgcggagcacataccctcaaaccagggggcagtgtgtcgtaacgggcaac
+EVC             taatcccaacctcggagcaggtggtcacaaaccagtgattggcctgtcgtaacgcgcaag
+EVD             taatcccaaccacggagcaaatgctcacaatccagtgagtggtttgtcgtaatgcgcaag
+EVD68           taatcctaaccatggagcaagtgctcacaaaccagtgagttacttgtcgtaacgcgcaag
+                ******.***. .*****.  .. .  ..* ** .  .   .  .*******.* * ** 
+
+CVA2            tctgcagcggaaccgactactttgggtgtccgtgtttc--tttttattcttataatggct
+CVB3            tctgcagcggaaccgactactttgggtgtccgtgtttc--attttattcctatactggct
+EV              tctggagcggaaccgactactttgggtgtccgtgtttcctgttttacttattgtttggct
+EVA             tctgcagcggaaccgactactttgggtgtccgtgtttc--cttttattcttatactggct
+EVA114          tccgcagcggaaccgactactttgggtgtccgtgtttc--cttttattcctatactggct
+EVB             tctgcagcggaaccgactactttgggtgtccgtgtttc--attttattcctatactggct
+EVC             tccgtggcggaaccgactactttgggtgtccgtgtttc--cttttatt-ttattgtggct
+EVD             tctgtggcggaaccgactactttgggtgtccgtgtttc--cttttatttttattatggct
+EVD68           tccgtggcggaaccgactactttgggtgtccgtgtttc--acttt-ttacttttatgact
+                **.* .********************************   .*** .*  *    **.**
+
+CVA2            gcttatggtgacaattaaagaattgttaccatatagc-tattggattggccatccggtga
+CVB3            gcttatggtgacaattgagagattgttaccatatagc-tattggattggccatccggtga
+EV              gcttatggtgacaacttatag-ttatcatcataagct-acttggtcttgccaaccggaga
+EVA             gcttatggtgacaattgaaagattgttaccatatagc-tattggattggccatccggtgt
+EVA114          gcttatggtgacaattgagagattgttaccatatagc-tattggattggccatccagtgt
+EVB             gcttatggtgacaattgacaggttgttaccatatagt-tattggattggccatccggtga
+EVC             gcttatggtgacaatcacaga-ttgttatcataaagcgaattggattggccatccggtga
+EVD             gcttatggtgacaatctgaga-ttgttatcatatagc-tattggattagcca--------
+EVD68           gctaatggtgacaatttaata-ttgttaccatttggcttgtcgaattgatcac-------
+                *** **********..    . **.*.*.***  . .   *.*. .* ..**        
+
+CVA2            ctaacaaatcgctcatataccagtttgttggttttgttccctt-----------atcaca
+CVB3            ccaatagagctattatatatctctttgttgggtttataccacttagcttgaa--------
+EV              -----------attatttggttatttgttggtttcataaacctacagtcg----------
+EVA             gcaacagagctattatttacctatttgttgggtatataccactca--------catccag
+EVA114          gtaatagagcaatcatttaccaatttgttggatttactccatt-----------aaccca
+EVB             ctaacagagcaattatatatctctttgttgggtttataccacttagcttgaa--------
+EVC             aagtgagactcattatctatctgtttgctggatccgctccattgagtgtgtttactctaa
+EVD             -----------------------tccggtgatatcttgaaattttgccataactttttca
+EVD68           -----ataagatctatagttttgttcactgattt------gctttgaaataatctcacct
+                                       *... **.          .*                 
+
+CVA2            tacagctcataacaccctcttata----tttactacaattgaatagcaa------gaaat
+CVB3            -agaggttaaaacattacaattca------ttgttaagttgaatacagc------aaaat
+EV              --tattttcctgtcttattaattg------ttctcaaaattaaca----------acaat
+EVA             aaaaaccctcgacacactagtata----cattctttacttgaattctag------aaaat
+EVA114          cacgtctctcaacacactacattt----catcttactactgaacactag------aaaat
+EVB             -agaggttaaaacactacatctca------tcattaaactaaatacaac------aaaat
+EVC             gtacaatttcaaca--------------gttatttcaatcagacaattgtatc--ataat
+EVD             caaatcctacaacattacactacactttctcttgaataattgagacaactc----ataat
+EVD68           caaaacctccag---tacataaca------tttaaagagtttaaacttatttataacaat
+                      ..   .                  .        .  *            . ***
+
+CVA2            gggggcacaggtctcaactcagcgctccggttcccatgaaacgagcaacgtagcacgaga
+CVB3            gggagctcaagtatcaacgcaaaagactggggcacatgagaccaggctgaatgctagcgg
+EV              gggagcacaagtgtcaaggcaagagtcggggaaccaccaagcaacatccatcgcaagtgg
+EVA             ggggtcacaagtctcaacccaacgatcgggttcccacgaaaattcgaactcagcatcaga
+EVA114          gggagcacaagtgtcaacacagcgaaccgggtcacacgagaccagcaacgttgtcaaaga
+EVB             gggggctcaagtatcaacacaaaagactggagcacatgagaccgggctgaatgcaagcgg
+EVC             gggtgctcaggtttcatcacagaaagtgggcgcacatgaaaactcaaatagagcgtatgg
+EVD             gggagcacaagtttctagacaacaaactggcacgcatgagaatgctaacgttgccactgg
+EVD68           gggagctcaagttactagacagcaaactggaactcatgagaatgctaacattgctacaaa
+                ***  * **.**  *    **. .  . **    **. *..           *.    ..
+
+CVA2            cggatccaccatcaacttcaccaacataaactattacaaggactcctatgctgcttcagc
+CVB3            caattccatcattcactacacaaatattaattattacaaggatgccgcatccaactcagc
+EV              tggtagtaccatacactacacaaacatcaattattataaggatagttatgctgcagctgc
+EVA             aggatctactataaactacaccaccatcaactattacaaggatgcatatgctgccagcgc
+EVA114          tgggtctacattaaatttcacaaacatcaacttttaccgcgactcatacgcggctgcagc
+EVB             gaattccatcatccattacacaaacataaactactataaagatgctgcatccaactcagc
+EVC             tggttctaccattaattacaccaccattaattattatagagattcagctagtaacgcggc
+EVD             aggctcaagcataacttacaatcaaataaatttctacaaagatagttatgcagcctcagc
+EVD68           tggatcccatattacatacaatcagataaatttttacaaggatagttatgcagcttcagc
+                 ..        *    * **     ** **.* .**. . **.         .     **
+
+CVA2            ggctaaacatgatttcacccaggatccgggtaaatttacacagcccgttcttgatgctct
+CVB3            caatcggcaggatttcactcaagacccgggcaagttcacagaaccagtaaaagatatcat
+EV              taataaacaagatttcagccaggacccatcgaagtttacacaaccagtggtagatgtatt
+EVA             gggtcgccaagatatgtctcaggaccctaagaaatttacagaccctgtgatggatgtcat
+EVA114          atcaaaacaagatttaagcatggacccgagcaagttcacgcaaccactgcttgatgctat
+EVB             caacagacaggatttcactcaagacccaggtaaatttactgagccagtgaaggacattat
+EVC             ttcgaaacaggacttctctcaagacccttccaagttcaccgagcccatcaaggatgtcct
+EVD             tagtaaacaagatttcagccaagacccatccaagttcacagagcctgtagctgaagccct
+EVD68           cagcaagcaagacttttcacaggatccatcaaaattcactgaaccagtggtggaaggctt
+                     . ** **. *      .**.**    **.**.**  * **  *    ** .   *
+
+CVA2            tcgcgaggctgtaccaccactacagtcacccagtgcagaggcatgtggctacagtgatag
+CVB3            gattaaatcactaccagctctcaactcccccacagtagaggagtgcggatacagtgacag
+EV              aaaggaaactgccgtgcccttaaagtcaccatcggcagaagcatgtgggtatagtgacag
+EVA             acacgagatggctcctcccttgaaatcacccagtgctgaagcttgtggttatagtgatcg
+EVA114          acgagagacagctgcccctctacaatcaccatctgcagaagcttgtggctatagtgatag
+EVB             gatcaaatcgatgccagcattgaactccccctctgccgaagagtgtggttatagtgacag
+EVC             gataaaaacagccccaatgctaaactcgccaaacatagaggcttgcgggtatagcgatag
+EVD             aaaagctggagccccagtcctaaaatcaccatcagcagaggcttgtggttatagtgacag
+EVD68           aaaagcaggggcaccagttttgaaatctcctagcgctgaggcttgtggctacagtgatag
+                    .      .  .  . .*  * ** **    .. **.*  **.** **.**.**. *
+
+CVA2            ggtagcccaattgactgttggcaactccacaatcacgactcaggaggctgcaaatatcat
+CVB3            ggtgagatcaatcacattaggtaactccaccataacgactcaggaatgcgccaacgtggt
+EV              agttgcccagttgaccatcggcaattcaactatcactacacaggaagcagctaacattgt
+EVA             agttgcccaactcacaattggaaactccacaatcactacacaagaagctgcaaacattat
+EVA114          agttgcccaactgactgttggtaattccaccataaccacacaggaggcagcaaacatagt
+EVB             ggttcgatcaataaccctcgggaactccactatcacaacacaggagtgtgctaatgttgt
+EVC             agtactgcaattaacactgggaaactccactataaccacacaggaggcggctaattcagt
+EVD             ggtcttacagctcaaattaggaaattccagtatagttacccaagaagcagctaacatttg
+EVD68           agtactacaactcaaattgggcaactcagctattgtcactcaagaagcagcaaactactg
+                .**    . . * *   * ** **.** .  ** .. ** **.**.   ** **.     
+
+CVA2            agtatcttacgctgagtggccagagtactgccctgatacagacgccacagcggtagataa
+CVB3            ggtgggctatggagtatggccagattatctaaaggatagtgaggcaacagcagaggacca
+EV              agtagggtatggtgaatggccagagtatttgagggatgatgaggccactgctgtggataa
+EVA             aatagcatatggggaatggcccgagtattgcaaggacgctgatgccacagctgttgacaa
+EVA114          tgtgagctatggtgaatggccagagtactgcccagacacagacgccacggcagtagataa
+EVB             ggttgggtatggtgtgtggccagaatatttgaaggacaatgaagccacaggcgaggacca
+EVC             agtcgcttatgggcgttggcctgaatatctgagggacagcgaagccaatccagtggacca
+EVD             ttgtgcctatggagagtggcccacctatctacctgataatgaggcagtggctattgataa
+EVD68           ttgcgcttatggtgaatggcctaattatttaccagatcatgaagcagtagctattgataa
+                       **.*     ***** .  **..     **.   ** ** .     .  **. *
+
+CVA2            gcccactcgccccgatgtgtcagtgaacagattctatactatgccggcaacattatggga
+CVB3            accgacccaaccagacgttgccacatgtaggttctatacccttgactctgtgcaatggca
+EV              accaaccaaaccagatgtttctgccaatcgcttttacacattgccctctaagaagtggga
+EVA             gcccaccagacccgatgtgtcggtaaataggttcttcacccttgatactaaatcgtgggc
+EVA114          gccaacgaggcctgatgtgtcggtcaacaggttttatacgttgccagctagactatggga
+EVB             accaacacaacccgacgtggccacatgtcggttctacactttagagtccgtgcagtggat
+EVC             gccgacagaaccagacgtcgctgcatgcaggttttatacgctagacaccgtgtcttggac
+EVD             acctacccagccagaaacatccacagatagattttacactttaaaatccaagaaatggga
+EVD68           acctacacaaccagaaacttctacagacagattttatactttaagatcagtcaaatggga
+                .** **  . ** ** ..  * ..  .. * **.* .**  *     * .     ***  
+
+CVA2            gacagagtcaaaaggttggtattggaagttccctgacctgctcaatgagataggggtctt
+CVB3            gaaaacctcaccaggatggtggtggaagctgcccgatgctttgtcgaacttaggactgtt
+EV              aaccaattcaacagggtggtattggaaattacccgacgccctgtgtgaattaggaatgtt
+EVA             taaagactcgaagggatggtactggaaattcccggacgttttgacggaggtgggcgtgtt
+EVA114          aaaggcatcaactggatggtactggaagtttcctgatgttcttactcagacgggtgtgtt
+EVB             gaagaattcagcaggttggtggtggaagttaccagatgcactttcacaaatggggttgtt
+EVC             gaaagagtcgcgagggtggtggtggaagttgcctgatgcactgagggacatgggactctt
+EVD             aagcaacagtactgggtggtggtggaagctccctgatgctttgaatcaaattggtatgtt
+EVD68           gagtaatagcacaggatggtggtggaaactacctgatgcattaaacaacataggcatgtt
+                 *  .        ** ****. *****..* ** **. . .*     *  . **  * **
+
+CVA2            cggacagaacgcacagtaccactacttgtacagatcaggcttttgcattcacgtacaatg
+CVB3            tgggcagaacatgcagtaccactacttaggccgaactgggtataccgtacatgtgcagtg
+EV              tgggcagaatgctgtgtaccatttcctttaccggagcggctggttgatacatgtacaggc
+EVA             tgggcagaatgcgcaattccattatctgtatagatccggattctgtgtgcacgtgcagtg
+EVA114          tggacagaacgctcagttccatttcttgtataggtccgggttttgtattcatgtccaatg
+EVB             tggacaaaatatgcagtaccactacttagggagaacaggctacaccatccacgtgcagtg
+EVC             tgggcaaaatatgtactaccactacctaggtaggtccgggtacaccgtgcatgtacagtg
+EVD             tggtcaaaacgtccaataccactacctgtataggagtgggttcctgtgccacgtacaatg
+EVD68           tggacaaaatgtacaatatcactacctatacagatctggcttcttaattcatgtgcagtg
+                .** **.**...    * .**.* ..*  .  *.   ** *        **.** **.  
+
+CVA2            taatgccagcaagtttcaccagggtgctctcctagtagctgtgatcccggaattcgttgt
+CVB3            caatgcatctaagttccaccaaggatgcttgctagtagtgtgtgtaccggaagctgagat
+EV              taatgctagtaaattccaccaaggcaccttgttagttcttgctatccctgagtttgtgat
+EVA             caatgccagcaaattccaccagggtgctctcttggttgccatactgcctgagtacgtgct
+EVA114          caacgccagtaaattccatcaaggtrcattactggtagccattgtacctgaatttgttct
+EVB             caacgcatctaagtttcatcagggctgtctactagtggtgtgtgtgccggaagcggaaat
+EVC             taacgcctccaaattccaccagggggcactaggggtattcgccgtaccagagatgtgtct
+EVD             caatgctacaaaatttcaccaaggtactcttctaatagtggctatcccagaacaccaaat
+EVD68           caacgctacaaagttccatcaaggcgcgctgttggtggtagcaataccagagcatcagag
+                .**.**    **.**.**.**.**    .*   ..*  .     * ** **.        
+
+CVA2            tgc------tgagcaggacgcca--ctcaaaaa----------cctaatacagcaaaaca
+CVB3            gggt---------------tgcg--------------------caacgctagacaacac-
+EV              tggag----agcttacggctgaa--------------------ccaagtaaaccaccaca
+EVA             gggcaccattgccgggggcgatggtaacgagaactcacatcccccgtacgtcaccaccca
+EVA114          cgg------ttcagagagcaccg--agcaaaaa----------ccaaacattgccaagca
+EVB             ggga---------------tgct--------------------caaatctaaacaacac-
+EVC             ggcc---------------------ggggatagc---------aacaccactaccatgca
+EVD             tgga----------------aag--------------------aaaggaacaggtacgtc
+EVD68           aggg----------------gca--------------------cacgacaccaccactag
+                 *                                                          
+
+CVA2            ccccgctttagaagccacacaacctggaaagaaaggcagggcatttatacatcca-----
+CVB3            cccatccagtgcagaattgctggggggcgatagcgcaaaagagtttgcggaca---aacc
+EV              ccccagcttcggaaaagtgatgccaggtcagggaggcgggactctcacttataac-----
+EVA             ---------------------gccaggacaggtgggtgctgtacttacaaatcct-----
+EVA114          cccagagttcaatgaagtgatgcctgggcagaagggagcgactttcaaacaccct-----
+EVB             cccaaagtttgctgaactttccggaggagataatgctagaatgttcactgacaccgaagt
+EVC             caccagctatcaaaatgccaatcctggcgagaaaggaggcactttcacgggtacg-----
+EVD             agcaagctttgctgaagtcatgaaaggggctgaaggtggagtatttgaacaaccc-----
+EVD68           tccagggtttaatgatatcatgaaaggtgaaagaggagggacgtttaaccaccca-----
+                                         **    .  *  .  .  .*..   .         
+
+CVA2            -------------------------------------------------------tacgt
+CVB3            ggtcgcatccgggtccaacaagttggtac---------------agagggtggtgtataa
+EV              -------------------------------------------------------tatat
+EVA             -------------------------------------------------------tatgt
+EVA114          -------------------------------------------------------tacat
+EVB             ggggacatccaa---cgataagaaagtac---------------aaacagcagtgtggaa
+EVC             -ttcactcctgacaacaaccagacatcacctgcccgcaggttctgcccggtggattacct
+EVD             -------------------------------------------------------tacct
+EVD68           -------------------------------------------------------tatgt
+                                                                       *.   
+
+CVA2            tcttgattgtggagtaccgntgagtcaggctctagtgttcccccatcagtggataaatct
+CVB3            tgcaggcatgggggtgggtgttggaaacctcaccattttcccccaccaatggatcaacct
+EV              tctagataatggcacagcattgagtatggcaaccatatacccgcatcaatggattaactt
+EVA             tttggatgctggggtaccccttagtcaattgacggtgtgtccgcatcagtggattaacct
+EVA114          cttagactgtggtatcccaatcagccaagcactagtgtttcctcatcaatggattaatct
+EVB             tgcaggtatgggtgttggtgttggcaacctgactatattcccacaccagtggatcaacct
+EVC             ccttggaaatggcacgttgttggggaatgcctttgtgttcccgcaccagataataaacct
+EVD             tttagatgatggtactagtttggcctgtgctcttgtataccctcaccagtggataaatct
+EVD68           tcttgatgatggaacatcaatagcttgtgcgacaatatttccacatcaatggataaatct
+                . . *.    ** ..     * .      .  . .* * .** **.**.  .** **..*
+
+CVA2            gcgcaccaacaattgtgctacaattgtggttccttacatcaacgcattgccctttgattc
+CVB3            acgcaccaataatagtgctacaattgtgatgccatacaccaacagtgtacctatggataa
+EV              gagaaccaacaattgtgctactctgattctaccatacgtgaactgcatacctgctgattc
+EVA             acgaaccaacaactgtgcgaccatcatagtaccatacatgaatactgtaccattcgattc
+EVA114          acgcacaaataattgtgccactattgtagtgccttacataaacgcactagcttatgattc
+EVB             gaggacaaacaatagtgctaccattgtaatgccttacatcaacagcgttcccatggacaa
+EVC             acggaccaacaactgtgctacactggtactcccttacgtgaactccctctcgatagatag
+EVD             tagaaccaacaactcagcaacaattgtgttaccatggatgaacagtgcaccaatggattt
+EVD68           aagaaccaacaattcagcaacgattgttcttccatggatgaatgttgcaccaatggactt
+                  * ** **.**.   ** **  * .*  * ** *. .. **.    .  *    **.  
+
+CVA2            tgcaataaatcactccaatttttcactggctgtcgtaccagtgtgcccgtta---aagta
+CVB3            catgtttaggcataacaacgtcaccctaatggttatcccatttgtaccgcta---gatta
+EV              tgctattagacacagtccttggtccctagtcattgtgccagttgtaccttta---ggtta
+EVA             ggccctaaaccattgcaactttggcttaattgtagtgcccgtagtaccactc---gactt
+EVA114          tgccatcaaccattcaaatttcagcctggttgttataccggtgtcgccgttg---gagta
+EVB             catgtatagacacaacaacttgacactgatgataatcccattcgtcccgctc---aacta
+EVC             tatggtaaagcacaataattggggaattgcaatattaccattggccccatta---aattt
+EVD             tgctcttagacataacaactggacattagccgttattccggtatgtccattggcaggagg
+EVD68           tccacttagacacaatcagtggacactagcagtaataccagtggttccattg------gg
+                  .    *. **.             * .. .*  * **  *    ** .*         
+
+CVA2            taacactggtgccaccccttcgataccgatcacaattacagttgctccactgtgctctga
+CVB3            ctgccctgggtccaccacgtacgtcccaattacggtcacgatagccccaatgtgtgccga
+EV              cgcgagcggtgctactacaatggtgcccattaccgtctccattgcgcccatgtgctgtga
+EVA             taacgctggagctacatcagaaataccaataactgtcaccatcgcacccatgtgcgctga
+EVA114          ccagaacggggccaccacagccatccccataacagtcaccatagcccccttgtgttccga
+EVB             tagtgagggatcatcaccttacgtaccaatcacagtcacaattgcgccaatgtgcgcaga
+EVC             tgctagtgagtcctccccagagattccaatcaccttgaccatagcccctatgtgctgtga
+EVD             tactggcaacacaaacacctatgtgccaattaccatctccattgctcccatgtgtgctga
+EVD68           tacacgcacaatgtcaagtgttgtcccaataacagtttcaattgcccctatgtgttgtga
+                .      .   .          .* ** ** **  *  * .* ** **  ****.   **
+
+CVA2            attcgctgggctgcgccaggcagtga---------aacagggcatcccggtggaaatgaa
+CVB3            gtacaatgggttacgtttagcagggc---------accagggcttaccaaccatgaatac
+EV              gtttagtggactgaggggtgcaatta---------cccagggcctacctgtgatgactgt
+EVA             atttgcaggtttgcgacaggcaatca---------aacaggggatacctaccgagttgaa
+EVA114          atwtgcgggtktgagacaggctataa---------aacagggcctcccagttgaaatgaa
+EVB             atacaatggccttagactggctagta---------gccagggtttgcccgtcatgacgac
+EVC             gttcaatggattaagaaacatcaccctgccacgcttacagggcctgccggtcatgaacac
+EVD             atacaatgggcttagaaatgccatta---------cacaaggagtgcccacttgcctgtt
+EVD68           gtttaacggactcaggcacgccatca---------cccagggtgttccaacatatcttct
+                .* ..  **  *  *    .. .              **.**  * ** ..         
+
+CVA2            gccaggtacaaatcaatttctaactactgatgatggaacttcagcgccaatactgccagg
+CVB3            tccggggagctgtcaatttctgacatcagacgacttccaatcaccatccgccatgccgca
+EV              gccagggagcaaccagtttctaactactgatcgtttttgctcaccaccaatgctgccagg
+EVA             gcccggtactaatcagtttctcactactgatgatggtgtctcagctcccattttgcccgg
+EVA114          gcccggcaccaatcagttcctgactaccgatgtaggagtgtctgccccaatactgccagg
+EVB             accgggtagcacgcaatttctgacttctgatgatttccaatcgccatcagcaatgccaca
+EVC             ccctggtagcaatcaatatcttactgcagacaacttccagtcaccgtgtgcgctgcctga
+EVD             gccaggctccaaccaatttttgactactgatgaccactcatcggcaccagcatttccaga
+EVD68           accaggttcaggacaatttctgactactgatgaccatagctcagcaccagtcctcccgtg
+                 ** **       **.* ..* **  * **.         **  * .  ..  * **  .
+
+CVA2            ttttcaccccacaccagctatccacattcctggggaagttcacagtttgctggagttatg
+CVB3            atatgacgtcacaccagagatgaggatacctggtgaggtgaaaaacttgatggaaatagc
+EV              ttttgatgaaacacccataatgcacataccaggagaggtagttaacatgttagagatcat
+EVA             attccaccctactccagccatacacatacctggtgaagtgcgcaatctgttggagatttg
+EVA114          gttcgacccaacacccttgattcacatcccaggggaagttagtagtctgttggagttatg
+EVB             attcgacgtcacaccagagatgcagatcccgggtcgtgtcaacaatctgatggaaatagc
+EVC             atttgatgtgaccccacctattgacatacccggtgaagtaaagaacatgatggaattggc
+EVD             cttttcaccaacccctgaaatgcacataccaggacaagtgcacagcatgttagaaatagt
+EVD68           tttcaacccaactccagaaatgcacattccagggcaaatccgcaacatgttggaaatgat
+                 * .      ** **    **  . ** ** **  . .*    *.. ** *.**. *   
+
+CVA2            ccaggtggaaactatgttggaagttaataatacaactagagcagtggaa-----------
+CVB3            tgaggttgactcagttgtcccagtccaaaatgttggag-agaaggtcaactctatggaag
+EV              gcaagtggaatctattctggaagtcaacaatgtgagtacagcacgtgacttg--------
+EVA             cagggtagagaccatattggaggtgaaca----------atctacagagtaatgagacaa
+EVA114          caggattgagactatactagaagtcaacaacaccacgcgatctgtggag-----------
+EVB             tgaggtggactctgtggtcccagtgaacaacactgaca-acaacgtgaatggtcttaaag
+EVC             agaaatcgacaccatgattccctttgacttaagtgccacaaaaaagaacacc--------
+EVD             gcaaattgaatctatgatggaaattaacaatgtgaatgacgctagtggagtg--------
+EVD68           tcaagtggaatcaatgatggagattaacaatacagacggcgcaaatggcatg--------
+                  ...* **  * .*  *     *  *                    .            
+
+CVA2            -----ctcgaccggttaaggatacctgtgtccgcccagagcgcagtggacaccttgtgtg
+CVB3            cat--accagatacctgtgagatccaatgaaggatctggaacgca---------------
+EV              --------aatcgcctattaattccagtttcggtgcaagcagaaattgaccaactcatat
+EVA             cccccatgcaacgactatgcttccctgtctcggtgcagagtaagacgggggaattgtgtg
+EVA114          -----atggagaggctcaggatacctgtttcagtacagaatgaagtcgattcactttgtg
+EVB             cct--accaaatccccgtgcaatccaatagcgacaatagaaggca---------------
+EVC             -----atggaaatgtatagggttcggttaagtgacaaaccacatacagacgatcccatac
+EVD             --------gagaggctcagagtccaaataagtgcacaatcagacatggaccaatt-----
+EVD68           --------gagcgtctcagagttgacatatcagtacaagcagatcttgatcagtt-----
+                         .    .            *    .    .                      
+
+CVA2            cagcgtttagagtggatcccggtagggatggaccatggcagtcc-------actatggtc
+CVB3            --agtattcggctttccactgcaaccagggtactcgagtgtttttagtcggacgctccta
+EV              gtagtttcagagttgaccctgggagagatgggccatgggagtct-------acactcgtg
+EVA             ctgtttttagggccgaccctggtaggaatggaccgtggcagtcg-------actatttta
+EVA114          catcgttcagggtagatccaggcagggaaggcccatggcaatct-------actatggtg
+EVB             --agtgttcgggtttcccttacaacctggggccaacaatgttctcaacaggactttgtta
+EVC             tctgcctgtcactctctccagcttcagatcctaggttgtcacat-------actatgctt
+EVD             --gcttttcaacatcccattggacatacagttggaaggcccattaagaaacacactgcta
+EVD68           --attatttaacattccactagatatacaactggatggaccacttagaaacactttagta
+                      *   .     . . .                .             **  *  * 
+
+CVA2            gggcaattatgcaggtactacacacagtggtcaggctccctgaagataacattcatgttc
+CVB3            ggagagatcttgaactattatacacattggtcaggcagcataaagcttacgtttatgttc
+EV              ggcaatcttgttaggtactacactcattggagcggttcacttgaaattacattcatgttt
+EVA             ggacagttgtgtaggtactatactcaatggtctggatctctggaagtcactttcatgttt
+EVA114          ggacaaatatgtaggtattttacacagtggtcaggttcattggaaattacatttatgttt
+EVB             ggtgagattttgaactactacacccactggagtggtagtataaagctcacgttcatgttt
+EVC             ggagaaatcctaaattactacacacactgggcaggatccctgaagttcacgtttctgttc
+EVD             ggcaacatcagcaggtattacacccactggtctggttcactggagatgactttcatgttt
+EVD68           gggaacatatccagatattatactcattggtctggatctctagaaatgacattcatgttt
+                **  *  *    *. **.* .** ** ***   **     * .*. * ** **. ****.
+
+CVA2            acaggctccttcatggctacaggaaagatgctggtcgcttacactcctccaggaggcgcc
+CVB3            tgtggttcggccatggctactggaaaattccttttggcatactcaccaccaggtgctgga
+EV              accggttgctttatggctacaggtaaagtgctggtggcttactcaccgcctggtggtacc
+EVA             gctggatcgttcatggcaacaggaaagatgctaatcgcatacacacctccggggggtggg
+EVA114          acaggctcattcatggctaccgggaaaatgttaatcgcctacacaccacctgggggagag
+EVB             tgtggatcggcgatggccactgggaagtttttgttagcatactcaccaccaggcgcaggg
+EVC             tgtggattcatgatggcaactggcaaactgttggtgtcatacgcgcctcctggagccgac
+EVD             tgtgggagctttatgaccacaggtaaattgatcatttgctacacaccacctggtggatct
+EVD68           tgcggtagttttatggcaacagggaaattgatcctatgttacacacctccaggtggatca
+                   **     . ***.* ** ** **. *  *  *    *** * ** ** ** *     
+
+CVA2            cagccagctactcgagaactcgctatgttgggcacacatgtgatctgggattttggctta
+CVB3            gctcctacaaaaagggttgatgccatgcttggtactcatgtagtttgggacgtggggcta
+EV              caacccacatcgaggctggacgccatgttagggactcatgttgtgtgggattttgggctc
+EVA             gtcccagcagatcggctcactgcaatgctgggaacccatgtgatatgggattttggcctc
+EVA114          caacctacctcacgcgaccttgctatgttgggtactcacattatatgggattttgggctt
+EVB             gttccaaaaaacagaagagacgcaatgttgggtacacatgtcatctgggacgtgggtttg
+EVC             ccaccaaagaagcgtaaggaggcgatgttgggaacacatgtgatctgggacataggactg
+EVD             agcccaacagataggatgcaagccatgctagctactcatgtggtgtgggactttgggctg
+EVD68           tgcccaacaactagagaaactgccatgttaggcactcacatcgtctgggactttggatta
+                   ** .      *       ** ***.* *  ** **..* .* *****. * ** .* 
+
+CVA2            cagtcatcagtgacactagtgatcccttggataagcaacacacactatagggccgttgaa
+CVB3            caatcaagttgcgtgctgtgtataccctggataagccaaacacactaccgg---------
+EV              caatctagcataacactggtcataccatggatttccaacagccactacagggca---aac
+EVA             caatcctcagtcacgctagttataccatggataagcaacacacactatagggcgcacgcc
+EVA114          cagtcatccattactctcgtggtaccatggatcagcaacacgcacttccgatctgtarag
+EVB             caatcaagttgtgtactttgtgtaccctggatcagccagacacactatagg---------
+EVC             cagtcctcatgtactatggtagtgccatggattagcaacaccacgtatcgg---------
+EVD             caatctagtatcaccattataattccttggatctcagggtctcattacaggatgtttaac
+EVD68           caatctagtatcaccttaataataccttggattagtggatcccactacaggatgttcaat
+                **.**       ..  *    .* ** *****     .       * . *.         
+
+CVA2            actgggggtgtatttgactactacacgaccggtgtggtgactatatggtatcaaacaaat
+CVB3            tttgttgcttcagatgagtataccgcagggggttttattacgtgctggtatcaaacaaac
+EV              attagcacttatagtgattactatgctgctggaatcgtcacaatgtggtatcaaaccaac
+EVA             aaggacggttattttgattattacaccactggcacgatcactatatggtatcagacaaat
+EVA114          actggcgggttgcgggattattacgcaacggggattgtcactatgtggtaccaaactaac
+EVB             tatgtggtggaggatgagtatacagcggcagggtatgttacatgctggtaccaaacaaat
+EVC             caaaccatagatgatagtttcaccgaaggcggatacatcagcgtcttctaccaaactaga
+EVD             acagatgccaaagcaataaatgctaatgttggttatgttacatgttttatgcaaaccaac
+EVD68           agcgacgctaagtcaaccaatgctaatgttggctatgtaacctgtttcatgcagaccaac
+                   .  .        .    .   .  .  **    .* *     *     **.** *. 
+
+CVA2            tttgtgg-tccctcctgacactcccactagcgcttacatcttggcatttggagcgggtca
+CVB3            atagtgg-tcccagcggatgcccaaagctcctgttacatcatgtgtttcgtgtcagcatg
+EV              tatgtgg-tgccaccaggagcaccaactcaaggaagtattattgctttggcagctgcaca
+EVA             tatgtcg-tacctattggagcccccacaacagcctatattgtggccctcgcagccgctca
+EVA114          tttgtgg-tccctcctaaaacgcccaccacagcttacatcatagcaatggctgctgccca
+EVB             atcattg-ttccagcggacgttcaaagcacatgcgacatcttgtgcttcgtatcggcatg
+EVC             atagtcg-tccctctttcgacacccagagagatggacatccttggttttgtgtcagcgtg
+EVD             cttgtag-caccagtgggtgctgcagatcaatgttacattgttggaatggttgcggcaaa
+EVD68           ctgatagtccccagtgagtcct-ctgatacttgttctttaataggattcatagcagcaaa
+                   .* * . **  .     .    .          . *  *     * .   * *   .
+
+CVA2            gaagaatttcactctcaagctgtgcaaagacactgacgagattacacaacaagcggtgtt
+CVB3            caatgacttctctgtcaggctattgaaggacactcctttcatttcgcagcaaaacttttt
+EV              gcctaactttagtgttaggctgcttaaggactcacctgatatttcccaagcatctgtact
+EVA             ggacaactttaccatgaaactgtgcaaagacactgaggatattgagcaatctgcaaacat
+EVA114          aaagaacttcaccttgaaactttgcaaggacactgatgagttaacgcaacaagcagtcct
+EVB             caatgatttctctgtgcgtatgttaaaggataccccttttataagacaagacaattttta
+EVC             taatgacttcagcgtgcgcttgttgcgagataccacacatatagagcaaaaagcgctagc
+EVD             gaaagattttaatcttagattgatgagggattcaccagacattggacagtcagctatact
+EVD68           agatgacttttccctcaggttaatgagagatagtccagatattggacaatcaaaccactt
+                    .*.**.  . *  .  *     ..**.          *    **.           
+
+CVA2            gcagg---gtgacggtatcgaagatgctataaccaacactgtaaatgccactataaacag
+CVB3            cca------gggcccagtggaagacgcgataacagccgctatagg---------------
+EV              gcaag---gggaccctgttggagaaactttaaccacccacataga---------------
+EVA             ccagg---gtgatggaattgcagacatgattgaccaggctgtcacttcccgagttggtcg
+EVA114          gcaag---gtgacggtcttgaagcagccctcgttcatgcgacagagtctgccatccagag
+EVB             cca------gggcccagtggaagaatcggtggaacgcgccatggt---------------
+EVC             acaggggttaggtcagatgcttgaaagcatgattgacaacacagtccgtgaaacggtggg
+EVD             acc------tgaacaagctgcaacaacacaaattggagaaatagt---------------
+EVD68           aca------tggagcagaggcagcctatcaggtggagagtatcat---------------
+                 *        *.          .        .        .. .                
+
+CVA2            agtgttggatcgaccgatttctcactc-----------atccacagctgcaaacacccag
+CVB3            --------------------------------------gag---agttgcggataccgtg
+EV              --------------------------------------aaatacagtggcaaatacaatt
+EVA             tgcgctga--------------catccttacaggtagaacctaccgccgccaacaccaat
+EVA114          tgccctag--------------cacgc------------cccactgctgctaataccaca
+EVB             --------------------------------------gcg---cgtggctgatacggtc
+EVC             ggcggcaa--------------catct---------agagacgctctcccaaacactgaa
+EVD             --------------------------------------gaaaactgtggctaatacagta
+EVD68           --------------------------------------caaaacagcaactgatactgtg
+                                                              .  * .*.**    
+
+CVA2            gtgagtcaacactcaattg----agacaggtcgcgtgcccgcacttcaagctgctgaaac
+CVB3            g-------gtacagggccaaccaactcagaagctataccagcactcactgctgctgagac
+EV              gcatcctcccataacattggcacagccgaaacc----ccagctctacaggcagcagaaac
+EVA             gctagtgagcacagattgg----gcaccgggctcgtccccgccttgcaggctgcagagac
+EVA114          gctagcaaccactccatag----ggactggtagtgtgccagcgctccaggctgccgagac
+EVB             a-------gctcaaagcctacgaattcagaatccatccccgccctcactgctgcggagac
+EVC             gccagtg-------gaccaacacactccaaggaaattccggcactcaccgcagtggaaac
+EVD             gagagtgagattaaggctg----aattaggagtgataccttcactaaatgctgttgagac
+EVD68           aagagtgagattaacgccg----aacttggtgtggtccctagtctaaatgcagttgaaac
+                .               .      .  . ..       **    .*    ** *. **.**
+
+CVA2            gggtgcaacgtccaacgcatccgatg-----aaaatctaattgaaactaggtgtgtagtc
+CVB3            aggtcacacgtcacaagtagtgccgg-----gtgacaccatgcagacacgccacgttaag
+EV              tgg-----agcaactagtaatgctagtgattctagtatgattgaaactagaacagtattc
+EVA             cggcgcctcttctaatgcacaggatg-----agaatcttatagaaacccggtgtgtgttg
+EVA114          aggagcatcctcaaccgctacggatg-----aaaggatgattgagaccaggtgtgtggta
+EVB             tggtcatacctctcaagtcgtaccca-----gtgacaccatgcaaactagacacgtgaag
+EVC             tggggccacaaatccactagtccctt-----ctgatacagtgcaaaccagacatgttgta
+EVD             aggagctacatccaacacagaaccag-----aggaagctattcaaactcgtactgtgatc
+EVD68           tggtgcaacttccaacactgaaccag-----aagaagccatacaaactcgcacagtaata
+                 **              .               ..  . .*  *.**  *    **    
+
+CVA2            aacaagaacagtgtggaggaagctagcttaaaccacttcttct-----------------
+CVB3            aactaccattcaaggtctgagtcaaccatagagaacttcctat-----------------
+EV              aataagcacaagcctagtgagtcaagcttagaaaactttttctcacgttcgtgtctggta
+EVA             aaccatcactccactcaagagaccacgattggcaactttttca-----------------
+EVA114          aacaggaacggaacaactgaagcgactattgagcactttttct-----------------
+EVB             aattaccactcaaggtcggaatcttccattgaaaatttcttgt-----------------
+EVC             caacataggtcaaggtcagagtctagcatagagtctttcttcg-----------------
+EVD             aatatgcatggtactgcagagtgcctggtggaaaatttcttag-----------------
+EVD68           aatcagcatggtgtgtcggagacgttagtggagaattttcttg-----------------
+                 *     .          **.       * ..   .**..*                   
+
+CVA2            ------cccgtgctgcattagttgg------------------caaagtggagctaaatg
+CVB3            ------gtaggtcagcatgcgtgta------------------------ctttacggagt
+EV              ggtatggttgatgtgtttacatct------------------------------------
+EVA             ------gtcgagcaggactagtgag------------------tattattaccatgccca
+EVA114          ------ctcgagctgccctcgttgg------------------aaaggtccacattaatg
+EVB             ------gccgatctgcttgtgtgta------------------------ttacgccacct
+EVC             ------cgcggggtgcatgcgtgacca---------ttatgaccgtggataacccagctt
+EVD             ------gcagatctgcacttgtgtgtatgcgatcatttgagtacaagaatcactcaacaa
+EVD68           ------gtagggcagccctagtgtcaaagaaaagttttgaatacaagaatcatgcctcat
+                         *    *  .  .*                                      
+
+CVA2            acacagggacg---gctgctacagggttcaccaattggaatattgacataatggg-gtat
+CVB3            ataaaaactca---ggtgccaagcggtatgctgaatggg-tattaacaccacgacaagca
+EV              -----gaaaca---actaccaatggtttcactgtgtgggatatagacataatggc-cttt
+EVA             ccacaggtacccaaaacaccgatgggtatgtgaactgggatattgacttgatggg-ttat
+EVA114          acacagggacc---actggcaaagggtttgacctgtgggatatagatgtcatggg-gtat
+EVB             acaataataat---tctgagaagggctacgcagagtgggttatcaacacca-ggcaggtt
+EVC             ccaccacgaat---aaggataagctatttgcagtgtggaagatcacttataaaga-tact
+EVD             gtacctcatcc---attcaaaagaatttcttcatctggactttgaacaccagaga-actt
+EVD68           ccagcgcaggg---acacacaaaaacttttttaaatggacaattaatactaagtc-tttt
+                                    .     * .      ***.   * . .   * .       
+
+CVA2            gcgca---gttgcggaggaaactagagatgttcacatacatgaggttcaatgctgaattc
+CVB3            gcaca---acttaggagaaagctagaattctttacctacgtccggttcgacctggagctg
+EV              gtcca---agagaggaggaagttggagatgtttacttacatgagatttaatgcagagttt
+EVA             gctca---aatgaggcgtaagtgtgagctattcacatacatgcgctttgatgcagagttt
+EVA114          gtgca---acttagacgcaagttagaactgttcacatacatgagattcaacgcagagttt
+EVB             gcgcagttgctgaggaggaaactagagttc---acttacttaaggttcgatctggaattg
+EVC             gtcca---gttacggaggaaattggagttcttcacctattctagatttgatatggaactt
+EVD             gtcca---aattaggaggaagatggaattgtttacttacctaaggtttgacactgaaata
+EVD68           gtcca---gttaagaagaaagctggaattattcacataccttaggtttgatgctgaaatc
+                *. **   .    *. * **.   **. *    ** **. .  * **..*. . **. * 
+
+CVA2            acttttgtggccac---------------------cactagggctgggcaggtgccgtct
+CVB3            acgtttgtcataacaagtactcaacagccctcaaccacacagaaccaagacgcacagatc
+EV              acatttgtcaccacagtggaaaaata------caacacagataaggccgtggcataccca
+EVA             acatttgtagctgc---------------------caaaccaaacggtgagctagtacca
+EVA114          acatttgtcaccac---------------------tactcatgaagggaagacacctgag
+EVB             acatttgtgataacaagtgcccaggagcccagtaccgctaccagtgtagacgcacctgta
+EVC             acctttgtggttactgcaaattt------------cactgagactaacaatgggcatgcc
+EVD             actattgtacccacccttagactatt---------ctcaagcagcaatgtctccttttct
+EVD68           accatactcacaactgtggcagtaaa---------tggtaataatgacagcacatacatg
+                **  *  *  . .*                     .      .                 
+
+CVA2            ------------agggtgcttcagtacatgtacgtccccccaggggcgcctaagccagac
+CVB3            ------------ctaacacaccaaattatgtacgtaccaccaggtggacctgtaccagat
+EV              ------------attatgttacagttcatgtatatacctaatggagcacctaagccaaca
+EVA             ------------caattgttgcagtacatgtatgtgcctcccggagctccaaaacctacg
+EVA114          ------------tgtatgttacagttcatgtacatcccacctggagcaccacacccagac
+EVB             ------------caaacccaacagataatgtatgtgcctccaggcgggccggtacctacc
+EVC             ------ttaaatcaagtgtaccaaattatgtacgtaccaccaggcgctccagtgcccgag
+EVD             ggattgcccaatctaactctacaagcgatgtatgtaccaactggtgcacgaaaacccagc
+EVD68           ggtctccctgacttgacactccaagcaatgtttgtaccaactggtgctcttactccaaag
+                                . .  **.   **** ..* **    ** *  *     ** .  
+
+CVA2            ggtagggaggcttttcagtggcagtcctcaaccaacccatcagtgtttagtaagatgaca
+CVB3            aaagttgattcatacgtgtggcaaacatctacgaatcccagtgtgttttggaccgaggga
+EV              ggacgtgattcatatgaatggcaatcatcaaccaatccatcaattttcacaactcttacc
+EVA             tcccgggattcctttgcctggcagactgctaccaatccttccatcttcgtcaagttgact
+EVA114          actagggatgctttccagtggcaaacctcaaccaatccctccgtgtttgcaaaaatgagt
+EVB             aaggttacagactacgcctggcaaacatccacaaaccccagcgtcttttggacagagggg
+EVC             aaatgggacgactacacatggcaaacctcatcaaatccatcaatcttttacacctacgga
+EVD             agtcaagactcatttgagtggcaatcagcatgcaatcctagtgtctttttcaagatcaat
+EVD68           gagcaggattcatttcattggcaatcaggcagtaatgctagtgtgttctttaaaatttct
+                      .     * .   *****. *       **. *    .* **.   *        
+
+CVA2            gaccctccgccgcaagtgtcagtaccatttatgtctcccgctagcgcttatcaatggttc
+CVB3            aacgccccgccgcgcatgtccataccgtttttgagcattggcaacgcctattcaaatttc
+EV              gatccaccagcacgcatttcagtacctttcatgagcacggctaatgcatatgcatggttc
+EVA             gaccccccggcacaagtgtcagtacccttcatgtctcccgccagcgcctaccagtggttt
+EVA114          gatcctccagcccaagtctctgtccctttcatgtcgcctgctagtgcttaccaatggttt
+EVB             aatgccccaccgaggatgtctattcccttcatcagtattggaaatgcttatagctgcttt
+EVC             acagctccagcccggatctcggtaccgtatgttggtatttcgaacgcctattcacacttt
+EVD             gacccaccagcgcgtctaacaattccattcatgagcattaactcagcttatgcaaatttc
+EVD68           gatcccccagctagaatgactataccttttatgtgcatcaactcagcatattcagttttt
+                .   * **. *  .  *  * .* ** * . *     .       ** **.      **.
+
+CVA2            tacgacgggtatcccactttcggtgaacac---------aatggtgaagacagcctgcgg
+CVB3            tatgacggatggtctgaattttccaggaa------------------------cggagtt
+EV              tatgatgggtaccc----cacttttggtg------------------------aacaccc
+EVA             tacgatggctatccaacgtttggagcccatccacaatcgaatgacgcagac---------
+EVA114          tatgatggatatcccacctttggtgaccat---------agtggggacgactcactaagg
+EVB             tatgatggatggacacagttctctaggaa------------------------tggggtt
+EVC             tacgacggtttttccaaagtaccactgaaggaccagtcggcagcactaggtgactccctt
+EVD             tacgacggatttgctggttttgagaaaaag------------------gccactgtcctt
+EVD68           tatgatggctttgctggatttgagaaaaa------------------------tggtcta
+                **.**.** *   *              .                               
+
+CVA2            tacgggc-aatgcccaaacaacgcactg--ggcacattctcagtaaggtttgtcagtgaa
+CVB3            tacggca-tcaacacgctaaacaacatg--ggcacgctatatgcaagacatgtcaacgct
+EV              cacagcagatgatgcgcagtacaacatattaccaagtaacatgttgggttcctttgcagt
+EVA             tatggcc-aatgtccaaacaacatgatg--ggcacctttagcatcagaactgtaggcact
+EVA114          tatggac-agtgtccaaataacatgttg--ggaaccttcgccattcgagtggtcagtgag
+EVB             tacggca-ttaataccctgaacaacatg--ggtacgctgtacatgcggcacgtaaatgag
+EVC             tatggtg-cagcatctctaaatgacttc--ggtattttggctgttagagtagtcaatgat
+EVD             tacggca-taaatccagcaaacactatg--ggaaacttgtgcttgagagtggttaattct
+EVD68           tatggaa-taaacccagctgacactatt--ggcaacttgtgtgtcagaatagtgaatgaa
+                .*..*         *     *..   *   .  *  .      .  *.    *  ..   
+
+CVA2            gagatcaccaacgagcgga---tcac-------------catcaggatttacatgaggct
+CVB3            ggaagcacgggtccaataaaaagcac-------------cattagaatctacttcaaacc
+EV              tagagttgtgggaagtttaaccacactatcccagttgagggtcagggtgtacatgaagcc
+EVA             gagaaatccccccattcta---tcac-------------ccttcgggtgtatatgagaat
+EVA114          aacgtgtccggttacaatt---tcac-------------cactagggtatacatgaaatt
+EVB             gcaggccaaggcccgatcaaaagtac-------------agttagaatatattttaaacc
+EVC             cacaacccgaccaaggtcacctccaa-------------aatcagagtgtatctaaaacc
+EVD             taccaaccagtccaatacacactaac-------------agttagggtatatatgaagcc
+EVD68           catcaaccagttggttttacagtgac-------------cgttagggtttacatgaagcc
+                                        *                .. *..* **. * *.. .
+
+CVA2            caagcacatacgagcttgggttccacgaccgctcaggtctgaaccttacgtgctgaagaa
+CVB3            gaagcatgtcaaagcgtggatacctagaccacctagactctgccaatacgagaaggcaaa
+EV              aaaacatgtgcgtgcttggtgcccaagggcaattcgcagccaattgtacacaaacaagaa
+EVA             caagcatgtcagggcctggataccccggccactcagaaaccaaccgtacctttttaagac
+EVA114          aaagcatattagagcctgggtccctaggcctttacgctctcagccatacatcctaaagaa
+EVB             caaacatgtgaaggcgtgggtgcccagaccgccgaggctatgtcaatatgagaagcaaaa
+EVC             caaacacatcagagtctggtgcccgcgtccaccgagggcagtggcgtac---tacggccc
+EVD             taagcatattaaggcctgggcacctagggcgcctcgcaccatgccctataccaacatcct
+EVD68           taaacatataaaagcatgggctccacgaccaccgcgaaccatgccatacatgagcattgc
+                 **.**..*  . *. ***   **  *  *  .  *          **.           
+
+CVA2            ctttccaaattacactg---------------------ccgttacccatgtcacagctaa
+CVB3            gaacgtgaacttcc------------------------gacccagcggagttaccactac
+EV              ttatccaaattttcc------------------caaatcagtaaaagcattggctacaaa
+EVA             aaatccaaattataaagg---------------caacgacatcaaatgcaccagcacaag
+EVA114          ctacccaaattatgacgg---------------acagaacat-acacccagcatctcata
+EVB             gaatgttaatttca------------------------acccaacaggagtcaccacaac
+EVC             tggagtggattacaagga---------------tggtacgcttacacccctctccaccaa
+EVD             caacaacaattatgcaggtcggtcagctgcacccaatgctcccacagccatagtgtccca
+EVD68           taatgcaaattacaaaggtagagatacagcaccaaacacacttaatgccataattggtaa
+                       .*.* .                            . *                
+
+CVA2            ccggcctag-catcaccaac---------acaggcaggtttgggcaacagtcc-------
+CVB3            taggcaaag-catcactacaatgacaaatacgggcgcatttggacaacaatca-------
+EV              cagagctga-cattaaaaca---------actggggcttttggacaacagtca-------
+EVA             tagggacaa-aataacaaca---------ctaggaaaatttggccagcaatct-------
+EVA114          accggtcaactattactaca---------actgggaaatttggacaacaatcc-------
+EVB             gcgctcaaa-cattaccaca---------accggcgcttttggacaacagtca-------
+EVC             ggatctgac-------------------cacatatggattcggacaccaaaac-------
+EVD             taggagtac-cataaagacaatgccca--acgatatcaatttgacaacagccggtcccgg
+EVD68           tagagcgag-tgtcacaactatgcctc--acaaca------tagtaaccaccggtccagg
+                       .                      .           . .* * .          
+
+CVA2            ----ggggccatatacgttggcagctatagagtagtgaacagacaccttgccactcacaa
+CVB3            ----ggggcagtgtatgtggggaactacagggtagtaaatagacatctagctaccagtgc
+EV              ----ggtgcagtctatgtgggtaattacagaattgtgaacaggcatctagccaatgagtt
+EVA             ----ggtgctatttacgtgggtaactatagagtggtcaatcgtcacttggccacgcacaa
+EVA114          ----ggggctatttacgtgagtaactatagggtggtgaatcgtcacctcgccacccacaa
+EVB             ----ggggctgtctacgtaggcaactacagagtggtgaatagacacctcgccacccgcga
+EVC             ----aaagcggtgtacactgcaggttacaaaatttgcaactaccacttggccactcagga
+EVD             ttatggaggagcttttgtggggtcttacaaaatcattaattaccatctagctacagatga
+EVD68           ttttgggggagtctttgtagggtcctttaagataattaactatcacttagccacaataga
+                    .. *  .. * ... .    .* .*...*    **. . **..* **.*       
+
+CVA2            tgattgggctaacttagtgtgggaagacagctccagagaccttttggtatcttcaaccac
+CVB3            tgactggcaaaactgtgtgtgggaaagttacaacagagacctcttagtgagcacgaccac
+EV              tgatgctgcaaacacaatatgggagagttacgaaagagatctacttgttagtaccaccac
+EVA             tgactgggccaatttagtatgggaagacagctcaagggatcttttagtctcctccaccac
+EVA114          tgattgggccaatcttgtgtgggaagacagtacaagagaccttctcgtgtcttctactac
+EVB             ggactggcagcggtgcgtgtgggaagattacaacagagatcttcttgtgagtacaaccac
+EVC             tgatttgcaaaacgcagtgaacgtcatgtggagtagagacctcttagtcacagaatcaag
+EVD             agaaaaagaaaggtcagtttatgtagactggcaatcagatgtcctagtgacaacagtagc
+EVD68           agagagacaatcagccatctatgtggactggcaatcagatgttctagtcacccccattgc
+                 **             .*  . *  .   .      .**. * .* **        . . 
+
+CVA2            cggccaggggtgtgacaccattgctcgatgtaattgtcagaccggggtgtattattgcaa
+CVB3            aacacatggatgtgatattatagccagatgtcagtgcacaacgggagtgtacttttgtgc
+EV              agcacacggttgtgacaccattgctaggtgcaactgtacctcaggcgtttacttctgtag
+EVA             tgcacagggatgtgacactattgctcgatgcgattgtcaaacgggggtgtattattgcag
+EVA114          tgcgcagggatgtgacaccattgcccgctgtagctgtcaaactggagtgtactattgcaa
+EVB             ggcacatggatgcgatatcatagccaggtgtcagtgcacaaccggggtttatttctgtgc
+EVC             agcccagggcaccgattcaatcgcaaggtgcaattgcaacgcaggggtgtactactgcga
+EVD             tgcccatgggaaacatcaaattgcgcgatgtaggtgcaatactggagtgtactactgtaa
+EVD68           cgctcatggtagacatcaaatagcaagatgcaagtgtaatacaggggtttactattgccg
+                 .  ** **     *.   ** **  * **. . **.    * ** ** **.* .**.  
+
+CVA2            ctcccggaggaaacactatccagtcagtttttctaaacctagcctggtgttcgtcgaggc
+CVB3            gtccaaaaacaagcactacccaatttcgtttgaaggaccaggtctagtagaggtccaaga
+EV              atcaaggggaaagcactacccagtctccttccagggcccaggtcttgtagaagtgcaggc
+EVA             ctcaagaagaaagcactacccagtcagtttctcaaagcccagtctaatctttgtggaagc
+EVA114          ctccaaaagaaagcattacccagtgagtttctccaaacccagcttagtgtttgtagaagc
+EVB             gtcaaggaataagcactatccagtttcctttgaggggccgggtcttgtggaggttcaaga
+EVC             gtctagaaggaaatactacccagtatccttcgttggcccaacgttccagtacatggaggc
+EVD             acacaagaacagaagttacccagtatgctttgagggccctggtattcagtggatcaatga
+EVD68           gcacagagatagaagctacccaatttgctttgaaggtccaggaattcaatggattgaaca
+                 .   .... *.. ..**.***.*    **.   .. ** .   *       .*  *   
+
+CVA2            cagcgagtattacccagccaggtaccaatcacacctcatgctggccgagggacactcaga
+CVB3            gagtgaatactaccccaggagataccaatcccatgtgcttttagcagctggattttccga
+EV              caatgaatattatccacacagataccaatcacatgtgcttcttgctcacgggttttcaaa
+EVA             tagtgagtactacccagccaggtaccaatcgcacctcatgctcgctgtagggcattccga
+EVA114          cagtgagtactatcctgctagatatcaatcccatctcatgcttgctgaaggccactccga
+EVB             gagtgagtactatccaaagaggtaccaatcccacgtgcttttagcggcaggcttttccga
+EVC             taataactattacccagctaggtaccagtcccatatgctcattggccatggattcgcatc
+EVD             aagtgattactatccagctagatatcaaacaaacactctcttagcaatgggtccatgtca
+EVD68           aaatgaatactacccggcaagataccagactaatgtacttctagcagctggccctgcaga
+                 *...* **.**.**    **.**.**. *  *. .  *  * *     ** .       
+
+CVA2            gcctggagattgtggtggtattctcaggtgtcagcacggtgtcgtgggaattgtatccac
+CVB3            accaggtgactgtggcggtatcctaaggtgtgagcatggtgtcattggcattgtgaccat
+EV              acctggagactgcggtggaattctccgttgtcagcatggagtaattggcttggttacaat
+EVA             gcctggagattgcggaggtattctcaggtgccagcatggtgttgttggtatagtgtctac
+EVA114          gccaggggactgtggaggcattctcaggtgccaacatggtgttgttggtatagtgtctac
+EVB             accaggggattgtggtggaatcctaaggtgcgaacatggtgtcgtgggcattgtaactat
+EVC             tccaggggattgtggtggcatactcagatgtcaccacggggtgatagggatcattactgc
+EVD             gccaggtgattgcgggggcctcttagtctgctcacatggagtgataggactcgtcaccgc
+EVD68           agcaggagattgtggtggtctattagtctgcccacacggggtgattggcctccttacagc
+                  * ** **.**.** **  * .*    **.   **.** ** .* **  *  *  * ..
+
+CVA2            tggagggaacggtcttgtggggtttgctgatgttagggacctgctttggcttgatgaaga
+CVB3            ggggggtgaaggcgtggtcggctttgcagacatccgtgatctcctgtggctggaagatga
+EV              gggaggtgacggtttggttggttttgctgacctacgtgaccttctgtggctcgaggatga
+EVA             aggtggaaatgggcttgttggttttgctgatgttagagacctcctgtggctggatgaaga
+EVA114          tggtggaaatggacttgtaggttttgcagatgtccgggatctcttatggttagatgagga
+EVB             gggaggggagggtgttgttggctttgccgacgtacgcgacctgctgtggttagaagatga
+EVC             tggtggcgaagggttggttgcattttcagacattagagacttgtatgcctacgaagaaga
+EVD             aggcggtgagggaatagttgctttcacagacattagaaatctcctgtggttagaggatga
+EVD68           aggagggggtgggattgtagccttcacagacatcagaaatttactgtggttagatactga
+                 ** ** .. **  * ** *  **. * **. *  * .*..* .     .  ** .  **
+
+CVA2            agctatggagcagggagtatctgattacatcaaaggtctcggcgatgccttcggcacggg
+CVB3            tgcaatggaacagggagtgaaggactatgtggaacagcttggaaatgcactcggctccgg
+EV              tgcaatggaacagggcgtaaaagattatgttgagcaacttggcaacgcttttggtgctgg
+EVA             ggctatggaacaaggagtgtctgattacatcaaagggcttggtgatgcgtttgggacagg
+EVA114          ggctatggagcagggtgtgtcggactacatcaagggcctaggtgatgcgtttggaacagg
+EVB             tgcaatggagcagggggtcaaagattacgtagagcaacttggaaacgcctttgggtcagg
+EVC             agccatggaacaaggcatcaccaattacatagagtcacttggggccgcatttggaagtgg
+EVD             tgccatggaacaaggtataacagattacatccagaaccttggtagcgcctttgggactgg
+EVD68           tgttatggaacaaggtattactgattacatacaaaatcttggtaatgcttttggagcagg
+                 *. *****.**.** .*    .*.**..*  *.   ** ** . .** .*.**    **
+
+CVA2            ctttactgacgcagtgtctagggaggtggaagcattaaaaaaccacttgatcggttctga
+CVB3            ctttactaaccaaatatgtgagcaagtcaacctcctgaaagaatcactagtgggtcaaga
+EV              ctttactactcaaatcaatgaacaaattacacatctgaaagagtgtctaattgggcaaga
+EVA             tttcactgacgctgtttccagagaggttgaggctcttaaaaatcacctcataggatctga
+EVA114          attcactgatgcagtgtctagagaggtagaggcccttaaaaaccaccttatagggtccga
+EVB             attcactaaccaagtctgtgaacaggttaaccttttgaaagagtccctagtgggccaaga
+EVC             atttactcagcagattagcgacaaaataacagagttgaccaatatggtgaccag------
+EVD             atttactgagaccatcagtgaaaaggctaaagagattcagaacatgctagttggagagga
+EVD68           attcacagaaacaatctccaataaggctaaggaagtgcaagacatgttaattggagagag
+                 **.**       .*   ...  *... .      *    .*     * .. .*      
+
+CVA2            aggggctgtcgaaaaaatcttgaagaatctggtgaaactaatttcagccttagttatagt
+CVB3            ctccatcttagagaaatctctaaaagccttagttaagataatatcagccttagtaattgt
+EV              ttccatcctagagaaatgccttaaagcattgatcaagattgtttcagctttagttatcat
+EVA             gggtgcagttgagaagattcttaaaaacttaattaagctcatttctgcactagtgattgt
+EVA114          gggagctgttgagaaaatcttgaagaacttaattaagttaatttcggcattggtcatagt
+EVB             ctccatcttagaaaaatctctgaaagccctagtaaaaattgtgtcagccttggtgatagt
+EVC             taccatcactgaaaagctacttaagaacttgatcaagatcatatcctcactagttattat
+EVD             cagtttattggaaaagcttcttaaagcattaatcaaaatagtatctgcaatggtgattgt
+EVD68           ttcattattggaaaaattactaaaagctctaatcaaaattatatcagcactggtgattgt
+                     .  . **.**.   .* **..  .*..* **. * .* **  *  *.** ** .*
+
+CVA2            catcaggagcgattacgacatggtcactctcacggctacgcttgctctgatcgggtgcca
+CVB3            ggtgaggaaccacgatgacctgatcactgtgactgccacactagcccttatcggttgtac
+EV              tgttagaaatcacgaagatctagtgacagtgacagcaactcttgccctcattggttgttc
+EVA             gatcaggagtgattacgatatggtcactctcacagcaactctggctctaattgggtgtca
+EVA114          gatcaggagtgattacgacatggttaccctcacagcaactttggccctaattggctgtca
+EVB             cgtgaggaaccacgacgatttaataacagtgactgcaacacttgccctcattggctgcac
+EVC             aactaggaactatgaagacaccacaacagtgctcgctaccctggcccttcttgggtgtga
+EVD             gattaggaattcagaagatctagttacagtcactgcaacacttgccctcctagggtgcaa
+EVD68           cattagaaattcagaagatttgataacagttacagctacactagcattgttagggtgtca
+                 .. **.*..    * **. . .. **  *  . ** ** .* ** .*  * ** **.  
+
+CVA2            tgggagtccttgggcgtggattaaatcaaagacagcttccatcctaggtattcccatggc
+CVB3            ctcgtccccgtggcggtggctcaaacagaaggtgtcacaatattacggaatccctatggc
+EV              aggttccccttgggcttggcttaagcaaaaggtggcacagttgtttggtattccattagc
+EVA             tggcagcccttgggcttggatcaaggctaagacagcatctattctgggcatccccattgc
+EVA114          cggtagtccctgggcctggatcaaggccaaaacagcttccatcttgggcatacccatcgc
+EVB             ctcctcaccatggagatggcttaagcaaaaggtgtcccagtactatggcattccaatggc
+EVC             tgcttcaccatggcagtggcttagaaagaaagcatgcgatgttctggagataccttatgt
+EVD             tgactcaccatgggcgtttcttaaacagaaagtttgctcatatcttggcatcccatacac
+EVD68           tgactcaccatggagctacttgaagcaaaaagtatgctcatacttgggtattccctatgt
+                       ** ***   *   * *..   **...          .  *. ** **    ..
+
+CVA2            acaaaagcagagtgactcatggttaaagaagtttaatgacatggcaaatgctgcaaaagg
+CVB3            tgaacgccaaaacaatagctggcttaagaaatttactgaaatgacgaatgcttgcaaggg
+EV              tcaaagacaagcagattcctggctcaagaagtttactgaaatgactaatgccgccaaagg
+EVA             tcagaaacagagcgcatcatggctaaaaaaattcaacgacatggctaatgctgccaaagg
+EVA114          tcaaaaacagagtgcctcgtggctcaagaagtttaatgatatggctaatgcagctaaggg
+EVB             tgagcgccagaacagtggttggctcaagaagttcactgaaatgaccaacgcctgcaaggg
+EVC             catcaagcaaggtgacagttggttgaagaagtttactgaagcatgcaacgcagctaaggg
+EVD             aataagacagagtgattcttggctcaagaagttcacagaggcatgcaatgcattgagagg
+EVD68           gcctagacaaagtgaatcatggcttaagaagttcacagaggcgtgcaatgctcttagggg
+                     . **..  .     ***.* **.**.**.*  ** ...   **.**    *..**
+
+CVA2            gctcgagtgggtctctaacaagattagcaagtttattgattggcttaaggagaagattat
+CVB3            tatggaatggatagctgtcaaaattcagaaattcattgaatggctcaaagtaaaaatttt
+EV              tttagagtggattgcacaaaagattcagaaatttattgagtggctgaagattaaaatcct
+EVA             gctagaatggatatctaacaaaattagtaagttcattgattggctcaaggagaagattat
+EVA114          attagagtggatatctaataagattagcaaattcattgattggctcaaggagaagatcat
+EVB             aatggagtggatagctattaaaatccagaaatttatagaatggctcaaagttaaaatcct
+EVC             actggagtgggtgtcaaacaaaatctcaaaattcattgattggctcaaggagaaaattat
+EVD             cctggattggctagcacaaaagattgacaagtttatcaactggcttaaaacaaagattct
+EVD68           tttagattggctatcacaaaagatagacaagttcattaattggctcaaaactaaaatatt
+                  * ** *** *  *    **.**    **.**.** .* ***** **..  **.**  *
+
+CVA2            tccagccgctaaggagaaagtcgagttcttaaacaacctaaagcaacttcctctgttaga
+CVB3            gccagaggtcagggaaaaacacgaattcctgaacagacttaaacaactccccttattaga
+EV              acctgaagtgaaggaaaaacatgagtttctgactcgcctaagacagctgcccttattgga
+EVA             accagcagctaaggaaaaggttgaattcttgaacaacctgaaacagctaccattattaga
+EVA114          accagcagcgaaggagaaagtggaattcctgaacaacttgaaacaattaccattgttgga
+EVB             accagaagttaaagaaaaacatgagttcttaaacagacttaaacaacttccgttactgga
+EVC             cccacaagctagagataagttggaatttgtaacaaaacttagacaactagaaatgctgga
+EVD             cccagaagccagagaaaagcatgaatttgtacaaaagctcaagcaactgcccgtcattga
+EVD68           accagaggctagggagaaatatgaattcgtgcaaagactcaagcagctaccagtaataga
+                 **    *. *..** **.   **.**. *.    . .* *..**..*     *  * **
+
+CVA2            aaatcaaatctccaatcttgagcagtctgctgcctcgcaagaggacctagaagctatgtt
+CVB3            aagtcagatcgccacaatcgagcagagcgcgccatcccaaagtgaccaggaacaattatt
+EV              gtctcaaattgctactttagaacagagtgccccatctcaaagtgaccaggaacagctttt
+EVA             gaaccagatctcaaacctagaacaatctgctgcttcacaagaggaccttgaagcaatgtt
+EVA114          gaaccaaatctcaaacttagagcagtctgcagcctcacaagaagacctcgaagctatgtt
+EVB             gagtcagattgccaccattgagcaaagtgcaccttctcagagtgatcaagagcaattgtt
+EVC             aaaccaaatctcaactatacaccaatcatgccctagtcaggaacaccaggaaattctatt
+EVD             aagtcagattaatactatagaacattcttgtccaaatagtgagcracaacaggccctgtt
+EVD68           aaaacaagttagcactattgagcatagttgcccaacaacagaacgacaacaggccttatt
+                .   **..*.   *   *  * **        *       ..    *   *.    * **
+
+CVA2            tggcaacgtgtcgtacctagctcacttttgccgcaagtttcaaccactctatgcaactga
+CVB3            ttccaatgtccaatactttgcccactattgcagaaagtacgctcccctctacgcagctga
+EV              ttctaatgtgcagtatttcgctcattactgcagaaagtacgcacctttgtatgctgctga
+EVA             tggaaatgtgtcataccttgcccatttctgccgcaaatttcagccactgtacgctacaga
+EVA114          cggaaatgtgtcttatctcgcacacttctgtcgcaagttccagccgctctacgctacgga
+EVB             ttctaatgttcagtactttgcacattactgcaggaaatacgcacccctgtatgcggccga
+EVC             caataatgtcagatggttatccatccagtctaagaggtttgcccctctttacgcagtgga
+EVD             taataatgtgcaatactattcacactactgcaaaaaatacgctcctttgtatgcactaga
+EVD68           caacaatgttcagtattactcacattactgtaggaagtacgcaccactttacgcagtgga
+                .   **.**    *. .   *   ..  * . . *..* .   ** .* **.**  . **
+
+CVA2            ggctaagagagtctatgctttggagaaaagaatgaacaactacatgcagttcaagagcaa
+CVB3            agcaaagagggtgttctcccttgagaagaagatgagcaattacatacagttcaagtccaa
+EV              agccaaaagggtctaccagctagaaaagcgagttaacaattacgtacagttcaagtccaa
+EVA             agccaagagggtctacgccctggagaaaaggatgaataactacatgcagttcaagagcaa
+EVA114          ggctaaaagagtctatgccctagagaagagaatgaacaactacatgcagttcaagagcaa
+EVB             agcaaaaagggtgttctcccttgagaagaaaatgagtaactacatacagttcaagtccaa
+EVC             agccaaaagaatacagaaactagagcatactattaacaactacatacagttcaagagcaa
+EVD             agctaagagggtttctgccttagaaaggaaaattaacaactacatacagttcaagtccaa
+EVD68           atcaaaaagagtggccgctcttgaaaagaaaataaacaattacatccagttcaagtccaa
+                . * **.**..*       .* **. .    .* *..**.***.* *********  ***
+
+CVA2            acaccgtattgaacctgtgtgtttgatcattaggggttctccaggaacagggaagtcact
+CVB3            atgccgtattgaacctgtatgtttgctcctgcacgggagccctggtgccggcaagtcggt
+EV              atgccgcattgaacctgtatgtttgttactccatggcacaccaggggcaggcaagtctgt
+EVA             acaccgtattgaacctgtatgtctcatcatcaggggctcaccaggtactgggaaatcttt
+EVA114          acaccgtattgaacctgtatgtctcatcatcagaggctctccaggtactggcaagtcctt
+EVB             atgccgtattgaacctgtatgcttgctcttgcacgggagtcctggtgcagggaagtcagt
+EVC             acaccgtattgaaccagtatgtttgctagtacatggcagccccggaacaggtaaatctgt
+EVD             atctcgcattgaaccagtatgtttgataatacatggatctccaggcactgggaagtcagt
+EVD68           atctcgcattgaaccggtttgtttaataatacacggctccccaggaactggcaaatcagt
+                *. .**.******** ** **..*  *  *  . **    ** ** .* ** **.**  *
+
+CVA2            tgccacgggtattatagctagagccattgctgacaaataccactccagcgtctactcgct
+CVB3            ggcaacaaacttaattggaaggtcgcttgctgagaaactcaacagctcagtgtactcact
+EV              agcaactaatctaattggaagagcaattgctgagaaactaaacagttcagtatattcatt
+EVA             ggcaaccggtatcattgcccgggcaatagccgacaagtaccactccagtgtgtattcact
+EVA114          ggcgactggcatcattgcccgagcgatagctgacaagtatcactccagtgtttactcact
+EVB             tgccactaacctgattgggcgctcactcgcggagaagcttaatagctctgtgtactctct
+EVC             agcaaccaacctgattgctagagccatagctgaaagagaaaacacgtccacgtactcgct
+EVD             ggcatctaacctcattgccagagctattacagaaaaactgggtggggattcttactcact
+EVD68           agcctcaaatttaattgctagagctatcacagaaaaattaggcggggacatttactccct
+                 **  * ... * ** *   *  *  * .* ** *..    ..       . **.** .*
+
+CVA2            tcccccagacccagatcacttcgatgggtataaacaacaggtggtcacagttatggatga
+CVB3            accgccagacccagatcacttcgacggatacaaacagcaggccgtggtgattatggacga
+EV              gccaccagatccagaccactttgacggctacaaacaacaagctgtggttattatggatga
+EVA             tcccccagacccagatcactttgatgggtacaaacaacaagtagttacagttatggatga
+EVA114          accacctgatccagatcactttgatggttacaaacagcaagtggtcacagtcatggatga
+EVB             accaccagacccagaccattttgacggttacaaacaacaggccgttgtgatcatggatga
+EVC             acccccggatccatcacacttcgacggatacaaacaacagggagtggtgattatggacga
+EVD             cccacctgatccaaaatattttgatgggtataaacaacagacagtggtcctgatggatga
+EVD68           acccccagaccctaaatactttgatggatataaacagcaaacagtagtccttatggatga
+                 ** ** **.**    .*.**.**.** **.*****.**..  ** ..  * *****.**
+
+CVA2            tctctgccagaatccagatgggaaagacatgtccctattttgtcaaatggtttctacagt
+CVB3            tctatgccagaaccctgatgggaaagacgtctccttgttctgccaaatggtttccagtgt
+EV              tttgtgtcaaaatccagacggaaaagatgtctcactattttgtcagatggtgtctagtgt
+EVA             tttgtgtcaaaatcctgatggtaaggatatgtcattattttgtcaaatggtatccactgt
+EVA114          tttgtgtcaaaaccctgatggtaaagacatgtcattattctgccagatggtgtccaccgt
+EVB             tttatgccagaacccagatggtaaggatgtttctttgttttgtcaaatggtctccagtgt
+EVC             cctgaatcaaaacccagatggtgcggacatgaagctgttctgtcagatggtatcaacagt
+EVD             cttaatgcaaaatccagatggtaatgatattgctatgttttgtcagatggtatctactgt
+EVD68           tttaatgcaaaatccagatgggaatgatatatctatgttttgccaaatggtttcaactgt
+                ..*    **.**.** **.** .  **..*     *.**.**.**.***** ** *  **
+
+CVA2            ggattttataccacctatggcatcgttagaggaaaaaggggtgtccttcacatctaagtt
+CVB3            agattttgtaccacccatggctgccctagaagagaaaggcattctgttcacctcaccgtt
+EV              tgattttgtgccacctatggctgcactagaagagaaaggaatcttattcacttcaccttt
+EVA             ggactttatcccaccaatggcctccctagaagaaaaaggagtttctttcacatccaaatt
+EVA114          agacttcattccaccaatggcctccctcgaagaaaaaggtgtctcatttacatccaagtt
+EVB             ggactttgtaccgccaatggcagcgctagaagagaaaggcattttgttcacctctccctt
+EVC             ggagtttataccacccatggcatccctggaggagaaaggaatcctgtttacttcaaatta
+EVD             agactttataccaccaatggccagtcttgaggaaaagggaaccctgtacactagcccatt
+EVD68           ggattttattcctccaatggctagtttggaagagaaaggaactctatataccagtccatt
+                 ** **..* ** ** *****    .* **.**.**.** .. .. * .**       * 
+
+CVA2            tgtcattgcatcaactaacgctagtaacatcatagtccccactgtctcagactcagatgc
+CVB3            tgtcttggcatcgaccaatgcaggatctattaatgctccaaccgtgtcagatagcagagc
+EV              tgtgctggcttctacaaatgcgggctccatccatgcaccaaccatttcagacagcagggc
+EVA             cgtcattgcgtccaccaatgccagcaacatcatagtgccaacggtgtccgactctgatgc
+EVA114          cgttatagcgtctaccaatgctagtaacatcatagtgccaacagtgtctgattcggatgc
+EVB             tgtcctggcttcaaccaacgccggctctattaatgctccaacagtttcagacagtagggc
+EVC             cgttctagcatccacaaactcaagcagaatttccccccccactgtggcacacagtgatgc
+EVD             tctgattgcgaccaccaatgctggctcaattcacgcacctacagtttcagattccaaagc
+EVD68           cttaatagccactactaatgctggttcaatacatgcaccaacagtctcagactcaaaggc
+                . *  * **  * ** **. * .*    **     . ** ** .*  *  *.   .. **
+
+CVA2            aattcgcaggcgattttacatggactgtgacatagaagtgacagattcttacaagacaga
+CVB3            cttggcaaggagatttcactttgacatgaacatcgaggttatttccatgtacagtcagaa
+EV              attagccagaagatttcattttgatatgaatattgaaattcttgatttgtaccagcagaa
+EVA             catccgccgcagattctatatggactgtgacattgaggtgacagactcatacaagacaga
+EVA114          tattcgtcgcagattttacatggattgtgacattgaagtgacagactcatataaaacaga
+EVB             actggctaggaggtttcactttgatatgaacatcgaggtcatttccatgtacagccagaa
+EVC             attagccaggcgctttgcgttcgacatggacattcaggtcatgaatgagtattctagaga
+EVD             tttggcccgcagatttaaatttgacatggagattgagtcaatggaatcgtataaggatgg
+EVD68           tttgtcacgcagattcaaatttgatgtggacattgaagttacagattcatacaaagactc
+                  *     *  * **.    * **.   .* **  *. .  .       **.        
+
+CVA2            tctcggccggttggacgcaggcagggctgctaagctttgtaca------gagaacaacac
+CVB3            t---ggcaagataaacatgcccatgtcagtcaagacttgtgac---gatgagtgttgccc
+EV              t---ggcaaattgaacatgccgatggcagtgaaaccatgtgat---gatgagtgcgttcc
+EVA             tttgggcagattggatgcaggacgggccgccagattatgttct------gaaaacaacac
+EVA114          cctgggtagactggatgctgggcgagccgccaagttatgctct------gaaaacaacac
+EVB             t---gggaagataaacatgcctatgtcggtgaagacgtgtgat---gaagagtgttgccc
+EVC             t---gggaaattgaacatggccatggctactgaaatgtgtaag---aactgtcaccaacc
+EVD             t---gttagattagatatgtttaaagcagtggagttgtgcaacccagaaaagtgcagacc
+EVD68           a---aacaaactagacatgtccagagcagtggaaatgtgcaaaccagataactgtacccc
+                    .   .. *..*...      . * .. ... . **.          .  ..    *
+
+CVA2            tgccaacttcaaaagatgcagtccactagtgtgcggcaaagccatccagctgagagacag
+CVB3            ggtcaattttaaaaagtgctgccctcttgtgtgtgggaaggctatacaattcattgatag
+EV              agccaacttcaagaggtgctgtccccttgtttgtggtaaagccatacaatttgttgatag
+EVA             tgcaaacttcaagcgctgcagcccactggtgtgtgggaaagccattcaactcagagatag
+EVA114          agccaatttcaagcgctgtagccccttggtgtgcgggaaagctatccaactaagggacag
+EVB             agtcaactttaagaaatgctgccccttagtgtgtggaaaggctatccagtttatagatag
+EVC             agcaaactttaagagatgctgtcctttagtgtgtggtaaggcaattcaattaatggacaa
+EVD             aaccaactataaaaagtgttgtccactgatttgtggaaaggccattcagtttagagacaa
+EVD68           tactaattataaaagatgctgcccactgatttgcggaaaagctattcaatttagagatcg
+                 .. **.* .**. . **. *.** .* .* **.** **.** ** **..* .  **. .
+
+CVA2            gaagtccaaggtaagatacagtgttgatactgtggtgtcagagctagtcagggagtataa
+CVB3            aagaacacaggtcagatactctctagacatgctagtcaccgagatgtttagggagtacaa
+EV              aagaacgcaagtcaggtatacactagacatgctagtttcagagatgtttagggaatataa
+EVA             gaaatccaaggtcagatacagtgtggacacggtggtctccgaactcattagagagtacaa
+EVA114          gaagtccaaggtgagatacagcgtggatacagtggtctctgaactcataagagaatacaa
+EVB             aaggacacaagtcagatactcccttgacatgctggtaactgagatgttcagagaatataa
+EVC             atcttccagagttagatacagtattgaccagatcactacaatgattatcaatgagagaaa
+EVD             gagaacgaacgtcaggtactcagtagatatgttagtaactgaaatgatcaaggaatatag
+EVD68           tagaaccaatgcaagatccacggttgatatgctagtgactgacattattaaggaatacag
+                     *  . *. **.* .    * **.    * ..  * .   *  * *. **. . *.
+
+CVA2            cagtagatctaccattggaaacaccatagaggcactctttcaagggccccccaagttcag
+CVB3            tcatagacatagcgtggggaccacgcttgaggcactgttccagggaccaccagtatacag
+EV              ccatagacataatgttggcaacgtactggaggctttgtttcaaggtccaccagtttacaa
+EVA             taacagatatgctattggtaatacaatcgaagccttgtttcagggtccacctaagtttag
+EVA114          caacaggtctgcgattggtagtaccattgaagctctgtttcaagggccacccaaatttag
+EVB             ccatagacatagtgttggggccacccttgaggcgctatttcagggcccgccaatatatag
+EVC             cagaagatccaacattggcaattgtatggaggctttgtttcaaggaccactccagtataa
+EVD             gatcagaaacagcacacaagataaattggaggctctgtttcagggaccaccaactttcaa
+EVD68           aaccaggaatagcacacaagacaaattagaagccctatttcaaggacctccacaattcaa
+                    **.  ..  ..  . . .    * **.** .* **.**.** ** *.    * .*.
+
+CVA2            acccatacgaatcagcctcg---aagagaggccagcaccagatgctattagtgacttgct
+CVB3            agagatcaaaattagcgttgcaccagagacaccaccaccgcccgccattgcggacctgct
+EV              agaaatcaaaatctcggttgctccagagacacctccaccaccagcaattgcagacctact
+EVA             gcccattagaatcagtcttg---aggaaaagccagccccagatgccattagtgatctcct
+EVA114          gcccatcaggatcagtcttg---aggaaaaaccagctccagatgctatcagtgacctcct
+EVB             agagattaagatcagtattgcgccagagacgccaccaccacctgccattgcagatctact
+EVC             agacttgaaaattgacatca---agacgagtccccctcctgaatgtatcaatgacttgct
+EVD             ggaaattaaaatatctgtgacacctgagaccccagcacccgatgcaataaacgacctatt
+EVD68           ggagattaaaatctcagtcgctccagacacaccagcccctgatgccataaatgaccttct
+                .    *  ..**     * .     .  *  **  * **       ** .  **..* .*
+
+CVA2            cgccagtgttgatagtgaggaggtccgacagtactgcagggaacaagggtggataatccc
+CVB3            caaatcggtagacagtgaggctgtgagggagtactgcaaagaaaaaggatggttggttcc
+EV              caagagtgttgacagtgaagaactcagagaatactgtaaggggaagggttggatcatccc
+EVA             cgctagtgtggacagtgaggaagtgcgtcaatactgcagagaccaaggctggatcatccc
+EVA114          cgccagcgtagacagtgaggaagtgcgccaatactgcagagaccagggctggatcatccc
+EVB             caaatcagtagacagtgaggctgtgagggagtactgcaaagaaaaaggatggctggttcc
+EVC             ccaagcagttgactcccaggaggtgagagattactgtgagaagaagggttggatagtc--
+EVD             gagatccatagattcacaagaggttagagattactgccagaagaagggatggatagtcat
+EVD68           taggtcagtggactctcaagaagttagagattattgtcaaaagaaggggtggattgtaat
+                       .* **.    *.*   *  *  * **.**. ....  *.** *** * .*   
+
+CVA2            agagacaccaactaa------tgtggaacggcacctcaatagagcagtcttagtgatgca
+CVB3            tgagatcaactccaccctccaaattgagaaacatgtcagtcgggctttcatttgcttaca
+EV              agagcaagcgtctagtctcattactgagaaacacatcaacagggcattcatctgtttaca
+EVA             agaaactcccaccaa------tgtcgagcggcaccttaatagggcggtgttgatcatgca
+EVA114          agaaacccccactaa------tgttgaacggcacctgaacagggccgtgttgatcatgca
+EVB             agagatcaactccaccctgcagattgaaaagcacgtcagtagggcctttatctgtttgca
+EVC             -aacatcaccagccaggttcaaacagaaaggaacatcaacagggcaatgacaattctaca
+EVD             gcacccacccactgaactggtggtggacaagcacattagtagagcctttatagcgctaca
+EVD68           acacccgtcaaatgagctagttgtagaaaaacatattagtagagctttcatcactctgca
+                  *         .         .. **  .. *. * *.. *.**  *  .     *.**
+
+CVA2            gtccattgccactgtggttgcggttgtgtctcttgtctatgttatttacaagctgtttgc
+CVB3            ggcattgaccacatttgtgtcagtggctggaatcatatatataatatataagctctttgc
+EV              agctttgaccacatttgtttctgttgctggcatcatctacataatttacaagttatttgc
+EVA             gtccattgccactgtggtagcagttgtttcactggtgtatgttatctacaaattgtttgc
+EVA114          atctatcgctaccgtggtagcggttgtctcactggtgtatgtcatctacaagctctttgc
+EVB             agcattgactacttttgtctcagtagcaggaatcatctacataatatataaactcttcgc
+EVC             agcggtgacaaccttcgccgcagtggctggagttgtctatgtcatgtataaactgtttgc
+EVD             ggcaataaccacttttgtatcaattgctggggtggtttatgtaatctacaagctttttgc
+EVD68           agctattgccacctttgtatcaatagctggtgtggtctatgttatatacaaactttttgc
+                . *  * .* **  * *.  * .* *.     * .* **..* ** **.**..* **.**
+
+CVA2            cggattccaaggtgcttactctggagcacccaagcaagcactcaagaagcctgtgttaag
+CVB3            gggttttcaaggtgcttatacaggagtgcccaaccagaagcccagagtgcctaccctgag
+EV              tggattccagggagcctattccggcatgccccagccaaagcctaaagtacccacaattag
+EVA             agggttccaaggtgcatactctggtgcccctaagcaaacactcaagaaacctatactccg
+EVA114          tggattccaaggcgcatattctggtgcccccaaacaggtgcttaagaaacctatcctccg
+EVB             aggctttcaaggagcatacacgggaatgcccaatcagaagcccaaggtacccactctccg
+EVC             tggacaccagggagcatacactggtttaccaaacaaaaaacccaacgtgcccaccattcg
+EVD             tggaatccaaggtccatacactggtttacccaatcaaaaacccaaggtccctaccttgcg
+EVD68           tggtattcagggcccatatacaggaattcctaatcctaaacccaaagtgccctctcttag
+                 **   .**.**  * **. * **  . **  *    . .*..*. .  **. .  *  *
+
+CVA2            aacagctacagttcaaggacctagcntggrcttcgccttgtcccttntaaggcgcaacat
+CVB3            gcaagcaaaagtgcaaggccctgcctttgagttcgctgtcgcaatgatgaaaaggaactc
+EV              acaagcaaaagtgcagggacccaactttgagtttgctgtgtcaatgatgaagagaaatgc
+EVA             cacagcgacagtgcaaggcccaagtcttgattttgctctctcattgcttaggaggaacat
+EVA114          cacagcaacagtgcagggaccaagcctcgattttgccctgtccttactcaggagaaacat
+EVB             tcaagcaaaagtacaaggacctgtatttgagtttgccgtagccatgatgaagaggaattc
+EVC             gacagcaaaggtacaaggaccagggttcgattacgcagtggctatggctaaaagaaacat
+EVD             caccgccaaagtgcaaggaccttctcttgatttcgcacaagccataatgagaaagaatac
+EVD68           aacagccaaagtgcaaggaccaggatttgattttgcgcaagccataatgaagaaaaatac
+                    ** * .** **.** **     * *  * .**     *  *  . *.. . **. .
+
+CVA2            cagacaggtacagactgaccaggggcacttcaccatgctaggcgtacgagaccgcttagc
+CVB3            aagcagggtgaaaactgaatatggcgagtttaccatgctgggcatctatgacaggtgggc
+EV              tagcaccgtgaaaacagggaatggagaattcaccatgctcggagtttatgatcgctgggc
+EVA             cagacaagtccagacagaccaaggccacttcactatgctaggtgttagagatcgcttggc
+EVA114          cagacaagtacaaacagatcaaggacacttcacaatgctaggtgttagagaccgcttggc
+EVB             gagcacagtgaaaactgaatacggtgagttcactatgctgggtatctatgataggtgggc
+EVC             tgttacagcaactactagcaagggagagttcactatgttaggagtccacgacaacgtggc
+EVD             agtaatagctaggactagcaaaggggagtttaccatgttgggcatctatgatagaattgc
+EVD68           tgttattgctagaactgaaaaaggcgagttcacaatgcttggtgtgtatgatagagtggc
+                 .     *.    ** ..  * **  * **.** ***.* ** .*  . **. .    **
+
+CVA2            catcttgccacgccactcacagccagggaaaaccatctggatagagcacaaattggttaa
+CVB3            cgttttgccacgccacgccaaacctgggccaaccatcttgatgaatgatcaagaggttgg
+EV              agtgttacctagacacgcaaaaccaggagaaaccatcatcatggatgatgctgaggttaa
+EVA             tgtcctcccgcgacactcgcagcctgggaagacaatatgggtagaacacaagcttataaa
+EVA114          cgtccttccacgccactcacaacctgggaagacaatctgggtggaacacaagctcgtgaa
+EVB             tgttttgccacgtcatgccaaacctgggccaaccatcttaatgaatgatcaagaaattgg
+EVC             tattttaccaacccacgcttcacctggtgaaagcattgtgatcgatggcaaagaagtgga
+EVD             agttgtacccacccatgcatcagttgaggaagaaatttacattaatgatgttccagtaaa
+EVD68           agtcattccaacacatgcatctgttggagaaatcatttacatcaacgatgtagaaaccag
+                 .*  * **    **. *     . *.   ..  **    .* .*  ..      .. ..
+
+CVA2            catactagatgcagctgaactggtggatgagcaaggtgttaatttagaacttacactggt
+CVB3            tgtgctagatgccaaggagctagtagacaaggacggcaccaacttagaactgacactact
+EV              gatcttggatgcgaaggagcttaccgatcaacaaggtgtcaatttagaacttactttagt
+EVA             catcttagatgctgttgagttggtggatgaacaaggggtcaacttagaactgaccctggt
+EVA114          tatcttggacgctgtcgagttgctggatgaacaaggagtcaacttggagctaactctggt
+EVB             tgtgctagacgccaaggagttagtggacaaggacggtacaaacttggaactgacactact
+EVC             gatcttggatgccaaagcgctcgaagatcaagcaggaaccaatcttgaaatcactataat
+EVD             agttaaggatgcttatgcccttagagatataaatgatgtgaacctggaaattactgttgt
+EVD68           agttctagatgcatgtgcacttagagacttgacagacacaaacctagaaataactatagt
+                 .*   .**.**    *  .*    **.  .   *. .. **..* **. * **  *  *
+
+CVA2            gaccttggacactaatgagaagtttagggatatcactaagttcatcccagagacaatcac
+CVB3            caaattgaaccggaatgagaagttcagagacatcagaggcttcttagccaaggaggaagt
+EV              aaaattagacagaaatgagaaattcagagacatcagggggttcatccctaaagaagagtc
+EVA             tactcttgataccaatgagaagttcagagacatcaccaagttcatcccagaaaacattag
+EVA114          cacccttgacaccaacgagaaattcagagacatcactaagtttatcccagagagcatcag
+EVB             taagctgaaccgaaatgaaaagttcagagatattaggggcttcttagccaaggaagaggt
+EVC             cactctaaagagaaatgaaaagttcagagacattagaccacatatacctactcaaatcac
+EVD             agaactagacagaaatgagaagttcagagatatcagaggattcctgccaaagtatgaaga
+EVD68           caaattggatcgcaatcaaaaatttagagacatcagacactttttacccagatgtgagga
+                 .  .* .*    **. *.**.**.**.**.**.*     . . *  * .     .    
+
+CVA2            tggagcgagtgatgcaacattagttatcaacactgagcacatgccctcaatgtttgtgcc
+CVB3            ggaggttaatgaggcagtgctagcaattaacaccagcaagtttcccaacatgtacattcc
+EV              tgagattggtgatgccatcctggctatgaacactagcaagtttccaaatatgttcattcc
+EVA             cgctgccagtgatgccaccctagtgatcaacacagagcacatgccctccatgttcgtgcc
+EVA114          tactgctagtgacgccaccctagtaatcaacacagaacatatgccctcaatgtttgtgcc
+EVB             ggaggttaatgaggctgtgctagcaattaacaccagcaagttccctaacatgtatatccc
+EVC             tgagacaaatgatggagtcttgatcgtgaacactagcaagtaccccaatatgtatgttcc
+EVD             tgattacaatgatgcaatcctcagcgtaaacactagcaagttcccaaacatgtatatacc
+EVD68           tgattacaatgatgctgtgcttagtgtacatacatcaaaattccctaacatgtacattcc
+                 .     ..*** *  .. .* .  .*  *.**     *    **    **** ..* **
+
+CVA2            agtgggtgatgttgtgcaatatgggttcttgaatctcagtggtaaacctactcacagaac
+CVB3            agtaggacaggtcacagaatacggcttcttaaacctaggtggcacacccaccaagagaat
+EV              agtagggcaggttaccgaatatggtttcctgaacctgagtggtgtccctacacaccgtat
+EVA             agtgggtgacgttgtgcaatacggtttcctaaacctcagcggaaaacccacccatcgtac
+EVA114          ggtgggtgatgttgtgcaatatggcttcttgaatcttagcggtaagccaactcaccgcac
+EVB             agtgggacaagttacagagtatggcttcctgaatctgggtggtacacccaccaagagaat
+EVC             tgtcggtgctgtgactgaacagggatatctaaatctcggtgggcgccaaactgctcgtac
+EVD             agtaggacaaacactaaattatggtttccttaatcttggggggacccccacccacagaat
+EVD68           agttggacaagtcactaactacggcttcttgaacctgggcggcacaccaacacatcggat
+                 ** **    ..  .  * .* ** * ..* **.** .* **    *  **     * *.
+
+CVA2            catgatgtacaatttccccacaaaagcaggacagtgtgggggggtagtcacttcagttgg
+CVB3            gcttatgtacaacttccccacaagagcaggccagtgtggtggagtgctcatgtccaccgg
+EV              gctcatgtacaatttcccaacacgagctgggcagtgtggtggaatactgatggcaacagg
+EVA             catgatgtacaactttcccactaaggctggacaatgtggtggagtggtgacatctgttgg
+EVA114          catgatgtataacttccccactaaggcaggacaatgtggaggggtagtgacatcagttgg
+EVB             gcttatgtacaacttccccacgagggcaggtcagtgtggcggagtgctcatgtccactgg
+EVC             tctaatgtacaactttccaaccagagcaggacagtgtggtggagtcatcacatgtactgg
+EVD             attaatgtataacttccccacaagagcaggacaatgtggaggggtggtgaccaccactgg
+EVD68           tttaatgtataattttccaacaagagctggtcagtgtggtggtgtggtgacaaccacagg
+                  * *****.**.**.** **  ..** ** **.***** ** .*  * *.    .. **
+
+CVA2            caaggtcattggaatccacattggcggaaatggacgccagggcttttgcgccggcttaaa
+CVB3            caaggtactgggtatccatgttggtggaaatggccatcagggcttctcagcagcactcct
+EV              aaaggtacttggcattcatgttggtggtaatggccatcaagggtttgccgccgccttact
+EVA             aaaggttatcggcatacatattggtggcaatggcaggcagggcttttgtgcaggactcaa
+EVA114          aaagattattggtatacacataggtggcaatggtagacaaggtttctgtgcaggactcaa
+EVB             caaagttttggggatccatgttggcgggaatggtcatcaaggcttctcagcggcacttct
+EVC             gaaagtcatcgggatgcatgttggtgggaacggttcacacgggtttgcagcggccctgaa
+EVD             taaagtgattggcattcacgttggtggcaatggtgcgcaaggctttgctgccatgctatt
+EVD68           taaagtgataggaatacacgtgggcgggaatggagctcagggattcgcagcaatgttgct
+                 **..*  * ** ** **..* **.** **.**    ** ** **.   ** .  .*   
+
+CVA2            gaggagctactttgctagtgaacaaggagagatccagtggatgaaacctaacaaagaaac
+CVB3            caaacactacttcaatgatgagcaaggtgaaatagaatttattgagagctcaaaggacgc
+EV              cagacactactttaatgatgaacagggtgaaatcgagtggatggaaacaaacaaggagag
+EVA             gaggagttattttgccagtgagcaaggagagatccagtgggtcaagcccaataaagagac
+EVA114          gaggagttactttgctagtgaacagggagagatccaatgggttaaacccaataaagaaac
+EVB             taaacactacttcaatgatgaacaaggagaaatcgagttcattgaaagctcaaaggaagc
+EVC             gcgatcatacttcactcagagtcaaggtgaaatccagtggatgagaccttcgaaggaagt
+EVD             gcaaaattactttactgagaagcagggtgagatagtatccattgagaaaactggag----
+EVD68           ccactcttactttactgatacacaaggtgagatagttagcaatgagaagagtggga----
+                  .    **.**.. . . .  **.** **.**       .  ...      ....    
+
+CVA2            tgggaggctgaatatcaatggtccaactcgaaccaaattagaacccagtgtgtttcatga
+CVB3            cgggtttccagtcatcaacacaccaagtaaaacaaagttggagcctagtgttttccacca
+EV              tgggtaccccattattaatgctccaagcaagacaaaacttgagcccagtgtttttcatga
+EVA             aggcagactcaacatcaatgggccgactcgcactaagctcgaacccagtgtgttccatga
+EVA114          tggaagactcaacattaatggaccaacccgcactaaacttgaacccagtgtattccatga
+EVB             agggttcccagtcatcaacacgcctagcaaaactaaattggagccaagtgtcttccacca
+EVC             gggatatccaatcataaatgccccgtccaaaaccaagcttgaacccagtgctttccacta
+EVD             --------tctttataaatgcgccagctaaaaccaaattagaacctagtgtcttccatga
+EVD68           --------tgtgtattaatgcaccagcaaaaacaaaactccaacccagtgtcttccatca
+                        .   .** **..  **     . ** **..*  *.** ****. **.**. *
+
+CVA2            tgtgtttgagggcaataaggagccggcagttctgaccagcaaagatcccaggttggaggt
+CVB3            ggtctttgaggggaacaaagaaccagcagtactcaggagtggggatccacgtctcaaggc
+EV              tatctttgaaggtgtgaaggaacctgcggtgctgaacaagaaagatcccagactcaaggt
+EVA             tgtctttgaggggaacaaagaaccagcagtcttgcatagcagagacccacgccttgaagt
+EVA114          tgtatttgagggaaataaagaaccagcagtcttacacagtagggatccccgtcttgaggt
+EVB             ggtttttgaaggcaataaagagccagcagtcctcaggaatggcgatccacgcctcagagc
+EVC             tgtgtttgaaggggtgaaggaaccagcagtcctcactaaaaacgatcccaggcttaagac
+EVD             agtatttgagggagttaaggaacctgcagttttacatagcaaggacaagagactgaaggt
+EVD68           agtttttgaaggttcaaaggaaccagcagtactcaattcaaaagatcctagactcaagac
+                 .* *****.**    **.**.** **.** .*       .. **.    * .* .....
+
+CVA2            tgatttcgaacaagccctgttctctaaatacgtgggaaacaccctacacgagcccgatga
+CVB3            caattttgaagaggctatattttccaagtatataggaaatgtcaacacacacgtggatga
+EV              agattttgaagaggccatcttctccaagtatgtgggaaatgtgaacacccatatggatga
+EVA             ggactttgagcaggctttattctccaagtatgtagggaacacactgcatgagcctgacga
+EVA114          ggattttgagcaagctttattctctaagtatgtgggaaacacactgcatgaaccagatga
+EVB             caactttgaggaggccatattttccaaatacatcggaaatgttaacacacacgtggatga
+EVC             agactttgaggaggcaattttctccaagtacgtgggtaacaaaattactgaagtggatga
+EVD             agattttgaggaagcaatattttccaaatacgttggtaacaaaaccatgctaatggatga
+EVD68           tgatttcgaggaggctattttctcaaaatatacaggtaacaaaattatgttaatggatga
+                 .*.**.**. *.**  * **.** **.**... ** **..            . **.**
+
+CVA2            gtatgtgacacaagctgcccttcactacgcaaatcaactaaaacaactagacataaatac
+CVB3            gtacatgctggaagcagtggaccactacgcaggccaactagccaccctagatatcagcac
+EV              gtatatgaaggaggcagtggatcactatgcaggacaattgctaacacttgacattgacac
+EVA             gtacatcaaagaggcggccctccactatgcaaatcagttgaagcaactggacatcaacac
+EVA114          gtacatcaaggaagcagcactgcactatgcaaatcagttgaaacagctagacatcaacac
+EVB             atacatgctggaagctgttgaccattatgctggtcaattggcaaccttagacatcagcac
+EVC             gtacatgaaagaggcagtagaccactatgctggccagctcatgtcactagacatcaacac
+EVD             gtacatggaggaggcagtggaccactatgtaggttgtttagagccccttgatattagcac
+EVD68           gtacatggaagaagcagtggatcattatgtgggatgtttagaaccactggatattagtgt
+                .**..*   . *.** *.    **.**.*. .. .. .*       .* **.** .....
+
+CVA2            cagtaagatgagcatggaggaagcatgctatggcacagagaatttggaggctattgatct
+CVB3            tgaaccaatgaaactggaggacgcagtgtacggtaccgagggtcttgaggcgcttgatct
+EV              caagccactgctgctagaggaggcagtctatggaactgatggtttggaagcacttgattt
+EVA             ttctcaaatgagtatggaggaagcttgctatggtactgagaaccttgaggccattgatct
+EVA114          ctctcagatgagcatggaagaggcttgttatggtactgagaacctcgaagccatcgatct
+EVB             cgagccaatgagattggaagatgctgtatatggtactgaaggccttgaggctcttgattt
+EVC             agaacaaatgtgcttggaggatgccatgtatggcactgatggtctagaagcacttgattt
+EVD             cgaacccattaaattagaagaagccatgtatggtatggatggccttgaagccttggacct
+EVD68           agatcccataccccttgaaaatgctatgtatggaatggagggtcttgaagcattggactt
+                        *     * **..* **    **.** *. ** ....* **.**  * **..*
+
+CVA2            gcacaccagtgctggatatccttatagtgctttgggcattaaaaagagggacattctcga
+CVB3            aacaacgagtgccggttacccatatgttgcactgggtatcaagaagagggacatcctctc
+EV              aacaactagtgcaggatacccttatgtaacaatgggggtgaagaagagagacatcatttc
+EVA             ccacaccagcgcgggctacccctacagtgctctgggaataaagaagagagatattttaga
+EVA114          ccacaccagcgcaggctatccatacagtgctctagggataaagaaaagagacatcctaga
+EVB             aacaacgagtgcgggctacccgtatgtcgctctgggcattaaaaagagggacatcctctc
+EVC             gtccaccagtgctggctacccttatgtagcaatgggaaagaagaagagagacatcttgaa
+EVD             cactaccagtgctggctacccatacttgttgcaggggaagaagaaaagagacatcttcaa
+EVD68           aaccaccagtgcgggcttcccttatttgttacaagggaaaaagaaaagggacatattcaa
+                    ** **.** ** * .** **.    .   .** .  **.**.**.**.**  *   
+
+CVA2            tccagtcactagggacacctccaagatgaaactatatatggataagtatgggttggattt
+CVB3            taagaagactaaggacctaacaaagttaaaggaatgtatggacaagtatggcctgaacct
+EV              aaaacagacccgagacctgaccaagctaaaggaatgtttggacaaatatggtctcaacct
+EVA             tcccactaccagagatgtgagtaagatgaaattctatatggacaagtatggccttgacct
+EVA114          ccctgttaccagggatgtgagcaaaatgaagttctacatggataagtacggattggacct
+EVB             aaagaagaccagagacctgaccaagctgaaggagtgcatggacaagtatggcctaaacct
+EVC             caaacaaaccagagacactaaggaaatgcaaaaactgctcgacacatatggaatcaacct
+EVD             cagacaaactagagatacaacagagatgaccaaaatgttggacaaatatggtgtggattt
+EVD68           cagacaaaccagagatactagtgagatgacaaagatgttggaaaaatacggagttgacct
+                       **. ..**. .    .*. *.          * ** * .**.**  * .*..*
+
+CVA2            gccctactccacctatgtgaaggatgagcttaggtccctagataaaatcaagaagggaaa
+CVB3            accaatggtgacttatgtaaaagatgagctcaggtccatagagaaggtagcgaaaggaaa
+EV              accaatggtgacatatgtcaaagatgagctcagatccaaggaaaaagtggaaaagggcaa
+EVA             tccttactctacctatgtcaaggatgagctccgctcgatagataagattaagaaaggaaa
+EVA114          cccctactccacttatgttaaggatgaacttcgctcactagacaagattaagaaagggaa
+EVB             accaatggtaacctatgtgaaagatgaactcagatctgcagagaaggtggcgaaagggaa
+EVC             cccactggtgacttatgtaaaggatgaacttagatccaaaacaaaggttgagcaggggaa
+EVD             gccctttgtcacatttgtcaaagatgaactcagaagcagagagaaagtagagaagggcaa
+EVD68           acctttcgtgactttcgtgaaagacgagcttagatcaagagagaaagtcgaaaaggggaa
+                 **     . ** * .** **.**.**.**. *      ..  **..* . . *.** **
+
+CVA2            atctcgcttgattgaagccagcagtctaaatgactctgtctatcttagaatgacttttgg
+CVB3            gtctaggctgattgaggcgtccagtttgaatgattcagtggcgatgagacagacatttgg
+EV              gtcgcgcttgattgaagcgtcgagtctgaatgattccgttgcaatgaggcagacctttgg
+EVA             atcccgcctgatcgaggctagtagtctaaatgactcagtgtacctcagaatggcctttgg
+EVA114          atcccgcttgatcgaggctagtagcctcaatgactcagtgtatctcaggatggcctttgg
+EVB             atctaggctaattgaggcatccagtttgaatgactccgtggcaatgagacaaacatttgg
+EVC             atccagattaattgaagcttctagtttgaatgactcagtggcaatgagaatggcttttgg
+EVD             gtctagattgattgaagctagttctttaaatgattcagttgccatgcgagtggcatttgg
+EVD68           gtcacgcctgattgaagccagttccttgaacgactcagttgccatgagggttgcctttgg
+                .**  * .*.**.**.**      ..* **.**.** **     *  *.   .* *****
+
+CVA2            ccatctttatgaggtattccacgccaatccgggaactataactggatctgcggtggggtg
+CVB3            taatctgtacaaaactttccacctaaacccaggggttgtgactggtagtgctgttgggtg
+EV              caatctatacaggacttttcacaagaatccaggagtggtgacgggaagtgccgtcggatg
+EVA             tcacttgtacgagactttccacgcaaatccaggaaccataactggctcagctgtgggatg
+EVA114          acacctttatgaaaccttccatgcaaatcctgggactgtcaccggttcagctgtggggtg
+EVB             caacctatacaaaacttttcacctaaacccagggattgtaactggcagtgccgtcgggtg
+EVC             gaacctatatgctgcttttcacaaaaacccaggagtgataacaggttcagcagtggggtg
+EVD             aaacctttatgcaacattccacaaaaatccaggagtcgccactgggagcgctgttggatg
+EVD68           aaatctctacgctacatttcataacaatccaggcacagcaactggtagtgcagttggttg
+                  *..* **..  .. **.**.   **.** ** .. .. ** **    ** ** ** **
+
+CVA2            taatcctgacgtgttttggagcaagctgccaatcctactaccaggctcgctctttgcatt
+CVB3            tgacccagacctcttttggagcaagataccagtgatgttagatggacatctcatagcatt
+EV              tgatccagatctgttttggagcaagataccagtgatgcttgatggggagctgtttgcctt
+EVA             caacccggatacattctggagtaaactaccaatcctgcttccaggttcactctttgcatt
+EVA114          taacccggatgtgttctggagcaagttaccaattctgcttcctggctcactctttgcttt
+EVB             tgatccagatctcttttggagcaagataccagtgatgttggatggccatctcgtagcttt
+EVC             cgatccagatttgttttggagcaaaattccggtattgatggaagagaagctgtttgcttt
+EVD             tgatccagatttgttttggtccaaaatcccagttatsttagatggaaaaatttttgcatt
+EVD68           tgatccagatatattctggtcaaaaatccctattttgttagatggagagatttttgcttt
+                ..*.** **. . **.***   **. * ** .*  *  *    *.     *  * ** **
+
+CVA2            tgactactcagggtacgatgcaagcctcagtcctgtgtggttcagagctctagaactggt
+CVB3            tgattactctgggtacgatgctagcttaagccctgtctggtttgcttgcctaaaaatgtt
+EV              tgattacacagggtatgacgctagtttgagcccagtttggttcctagcactcaaagtctt
+EVA             tgattactcaggctatgatgctagtctcagtccagtctggtttagagcactggagctggt
+EVA114          cgactactcaggctatgatgctagtctcagcccagtttggttcagggcattggaactggt
+EVB             tgattattctggatatgacgctagcttgagtcccgtatggtttgcctgtctaaagctact
+EVC             tgactacacagggtatgatgcatctctcagccctgcttggttcgaggcactaaagatggt
+EVD             tgactacacaggttatgatgccagtctctcaccagtctggtttgcatgcctaaagaaaac
+EVD68           tgattacactggttatgacgctagtttatcaccagtgtggtttgcctgtttgaaaaaggt
+                .**.**. * ** **.**.**   ..*    ** *. *****.      .* .*.    .
+
+CVA2            tctacgagagattggttactcggaggaggctgtgtcactcatagaagggattaatcacac
+CVB3            acttgagaagcttggatacacgcacaaagagacaaactacattgactacttgtgcaactc
+EV              acttgagaagcttggttatgattatcaggaaaccaggtatatagattacctgtgtaattc
+EVA             cctcagggaggtgggctatagtgaggaggcagtctcccttatagaggggattaaccatac
+EVA114          ccttaaggaaataggctatggtgaagaggcaatctcacttattgaagggatcaaccatac
+EVB             gcttgagaaacttggttactcgcacaaggagaccaattacattgactacctgtgcaactc
+EVC             gcttgagaaaatcggattcggagaca---gagttgactacatcgactacctaaaccactc
+EVD             tctggtaaaattaggttatactcatc---aaacagcatttgttgattacttgtgtcactc
+EVD68           tctgattaaattaggttacacccacc---aaacatcttttatagattatctatgccactc
+                 **    .*. * ** * .    *       ..    . ..* **  .  *  .. *. *
+
+CVA2            ccaccatgtgtatcggaacaagacatactgcgttcttggtgggatgccctcaggttgctc
+CVB3            ccatcacctgtacagggataaacattactttgtgaggggtggcatgccctcgggatgttc
+EV              ttatcatctttacaaagacaaacattattttgtgagaggaggaatgccctcagggtgttc
+EVA             acaccatgtataccgcaataaaacttactgtgtacttggtggaatgccctcaggctgttc
+EVA114          acaccatgtgtatcgcaataagacttattgcgtgcttggtggaatgccatcgggttgctc
+EVB             ccatcacctgtacagggataaacattactttgtgcggggtggcatgccatcaggatgctc
+EVC             acaccacctgtacaagaataaaacatactgtgtcaagggcggtatgccatctggctgctc
+EVD             ggttcacttgtacaaagacagaaaatacatagtgaacggtggaatgccatcaggctcatc
+EVD68           agtgcatttgtacaaggatagaaaatatgtaattaatggtggaatgccctctggttcttc
+                    **. * **. . .*.*..   **.   .*    ** ** ***** ** ** *  **
+
+CVA2            tggcacttcaattttcaattccatgatcaacaacataatcattagaacccttttgattaa
+CVB3            tggtaccagtattttcaactcaatgattaacaatatcataattaggacactaatgctaaa
+EV              aggaacgagcatcttcaactcaatgattaacaacatcataattagaaccttgttgttgaa
+EVA             aggaacatccattttcaactcaatgatcaacaacatcataattaggacattgctcataaa
+EVA114          aggaacatctatcttcaactcaatgatcaacaacatcatcattagggcactgctcataaa
+EVB             tggcacaagcatcttcaactcaatgataaataacatcataatcaggacactaatgttgaa
+EVC             aggcacttcaatttttaactcaatgattaacaacttgattatcaggacactcttactgaa
+EVD             tggcaccagtatcttcaacactatgatcaacaacattataatcagaacccttttacttaa
+EVD68           aggtactagtatatttaacactatgattaataacataattataagaactttattaattaa
+                 ** **    ** **.**. * ***** **.**. * ** ** **..* .*  *  * **
+
+CVA2            aacgttcaaaggaatagacttggatgaactgaacatggtggcttacggagatgatgtact
+CVB3            agtgtacaaagggattgacttggaccaattcaggatgatcgcatatggtgatgatgtgat
+EV              ggtatataaaaatatcgatctggacaaatttaggatgattgcgtatggtgacgacgtgat
+EVA             aacattcaagggcattgatttggacgagcttaacatggtcgcctacggggatgatgtgct
+EVA114          aacatttaagggaattgatttagatgaactcaacatggttgcctacggagatgatgtgct
+EVB             ggtgtacaaagggatcgacttggatcaattcagaatgattgcttatggtgatgacgtgat
+EVC             aacctacaagggcatagatttagaccacctaaaaatgattgcctatggtgatgatgtaat
+EVD             agtttacaaaggtattgatttagatcagttcaaaatgatagcatatggtgatgatgtaat
+EVD68           ggtttacaaaggcatagatctggaccagtttaaaatgatagcatacggagatgatgttat
+                ... * .**... ** **..*.**. * .* *. ***.* ** **.** **.**.**  *
+
+CVA2            ggctagctacccattccccattgattgctcggaattggcgagaactggtaaggagtacgg
+CVB3            cgcatcgtacccatggcctatagatgcatctttactcgctgaagctggtaagggttacgg
+EV              tgcgtcctatccatatccaatcgatgcaggcctacttgctaaggcgggaaaggagtatgg
+EVA             tgctagttatcctttcccaatcgattgcctggaattggcaagaacaggcaaagagtatgg
+EVA114          tgccagctatcctttcccaattgactgtctagaactagcaaaaacaggcaaagagtatgg
+EVB             cgcatcatatccgtggcccatagatgcgtccctgcttgctgaagctggtagggattgtgg
+EVC             tgcttcctacccccatgaagttgacgctagtctcctagcccaatcaggaaaagactatgg
+EVD             tgctagttacccacatgagatagaccctggcctattggcaaaagccgggaaagagtatgg
+EVD68           tgctagttacccacacaaaattgatccaggtttattagcagaagcaggcaagcactatgg
+                 **    **.** .     .* **.         .* **  .. * ** *.. . *..**
+
+CVA2            gctgactatgactcctgctgacaagtcaccctgctttaatgaagtcacctgggagaacgc
+CVB3            gctgatcatgacaccagcagataagggagagtgctttaacgaagttacctggaccaacgt
+EV              tctgacaatgacaccagctgacaagagcgcggagttcaacaatgtgacctgggagaatgt
+EVA             tttgactatgactcctgcagacaaatctccttgcttcaatgaggtaaattggggcaatgc
+EVA114          cttgacaatgaccccagcagacaagtctccctgcttcaatgaagtcaactggggtaatgc
+EVB             gttgatcatgacaccagcagacaaaggggattgcttcaatgaagtcacctgggctaatgt
+EVC             actaactatgactccagctgacaaatcagctacatttgaaacagtcacatgggagaatgt
+EVD             attaataatgaccccagcagacaagagtagtggttttactgagactacttgggagaatgt
+EVD68           attggtaatgacaccagcggacaaaggtaccagtttcattgacactaattgggaaaatgt
+                 .*... ***** ** ** **.**.         **..  .  .. *  ***.  **.*.
+
+CVA2            aaccttcttgaagaggggttttctaccagaccaccagttcccttttttaatccaccccac
+CVB3            cactttcctaaagaggtattttagagcagatgaacagtaccccttcctggtgcatcctgt
+EV              gacctttttgaaaaggttcttccgcgcagatgaacagtaccccttcttggttcatccagt
+EVA             aacctttctcaaaagaggcttcttgcccgatgagcaattccctttcttgatccatcctac
+EVA114          aacttttcttaaaagaggcttcttgcctgatgatcaattccctttcttgatccaccctac
+EVB             cacatttctaaagaggtattttagagcagatgaacagtacccctttttagtgcaccccgt
+EVC             aacattcttgaagagattcttcagggcagacgagaaatacccatttcttattcatccagt
+EVD             tacctttttgaagaggtatttcagagcagatgaacagtatccctttttgatccacccagt
+EVD68           aacttttttgaaaagatacttcagagcagatgatcaatacccctttcttatacatccagt
+                 ** **..* **.**.  .**.    * **. *  *.* .** **..* .* **.** ..
+
+CVA2            catgcccatgagggaaatccacgagtccattcgttggaccaaggacgcacgaaacactca
+CVB3            tatgcccatgaaagacatacacgaatcaattagatggaccaaggatccaaagaacaccca
+EV              gatgccaatgaaggagattcatgagtccattagatggaccaaagacccacgcaacacgca
+EVA             catgccaatgaaggagattcacgaatctattcgatggaccaaggacgcacgaaacactca
+EVA114          catgccgatgaaggaaatccacgagtctattcgatggaccaaggacgcgcggaacactca
+EVB             catgcctatgaaagacatacatgaatcaatcagatggaccaaggacccaaagaacaccca
+EVC             aatgccaatgaaggaaattcatgaatcaattagatggactaaagatcctaggaacactca
+EVD             tatgccaatgaaggaaatccatgagtcaattagatggacaaaagatccgagaaacacaca
+EVD68           gatgccaatgaaagagatacatgaatctattagatggactaaagatcccagaaacacaca
+                 ***** ****..** ** **.**.** **. * ***** **.**. *  . ***** **
+
+CVA2            agaccacgtgcgttccctttgcttgttggcgtggcacaatggaaaggaggaatatgaaaa
+CVB3            agatcacgtgcgctcactgtgtctattagcttggcataacggggagcacgaatatgagga
+EV              ggaacacgtgaggtctctgtgccagctagcctggcacaatggagaggaggtatacaatga
+EVA             agatcacgtacgatccctgtgtcttttggcgtggcacaatggtaagcaggagtatgaaaa
+EVA114          agaccacgtgcgatccttgtgcctcttggcgtggcacaatggtaagcaagaatatgaaaa
+EVB             agatcatgtgcgctcgttgtgcttattggcctggcacaacggggagcacgaatatgagga
+EVC             ggatcacgttcgctctctgtgccttttagcttggcacaatggcgaagaagaatataacaa
+EVD             agatcatgtgagatccttgtgcctactkgcctggcacaatggtgaagaaacttacaatga
+EVD68           agatcatgttagatccttgtgttacctggcgtggcataatggagaagaggcttacaatga
+                .** **.**  * ** .* **..  .* ** *****.**.** .*. * .  **..* .*
+
+CVA2            atttgtgagcacaatcagatcagttcccattggaaaagctttggcgataccaaattttga
+CVB3            gttcatccgtaaaattagaagcgtcccagtcggacgttgtttgaccctccccgcgttttc
+EV              atttttagataaaatccgcagtgtgcctgtgggaaaatgccttctacttccagcctattc
+EVA             atttgtgagcacaattaggtctgtcccagtaggaaaagctttggctataccgaattatga
+EVA114          atttgtgagcacaattagatctgtcccagttgggaaagcattggctattccaaattatga
+EVB             gttcatccgcaaaattagaagcgtcccagttggagcttgcttgactctacctgcgttttc
+EVC             attcctagctaaaatcaggagtgtgccaattggaagagctttattgctcccagagtactc
+EVD             attctgcaggaaaatcagaactgtacctgtaggaagagctttagctttaccagtatattc
+EVD68           attttgtagaaaaattagaagtgtgcccgtggggagggcattgacactacctgcatattc
+                .**.      * ***. *    ** ** .* **.      .*  .  * ** .  * .  
+
+CVA2            gaacttaagaaggaattggctcgaattgttttaaacttacagc-----------------
+CVB3            aactctacgcaggaagtggttggactccttttagattagagacaatttgaaataattt--
+EV              tacactccgtagaaaatggcttgattcatttta-attagattcaatttggctttaattcg
+EVA             aaatctgagacgcaattggctcgaattattttagaggtcaga------------------
+EVA114          aaatctgagacgcaattggctcgaactattttagagattg--------------------
+EVB             aactctacgcaggaagtggttggactctttttaaattagagacaatttgaactaattt--
+EVC             aacattgtaccgccgttggcttgactcatttta--------gtaaccctacctcagtc--
+EVD             tagtttgaggcgcaagtggttagactcattcta-------gataactctacttaggaa--
+EVD68           tagtcttagacggaaatggttagattcgtttta-------gataactctaattgaaac--
+                 *  .*  .  *  . ***.* ** .. **.**                           
+
+CVA2            ---tcaaagctgaaccccaccaga--aatctggtcgtgtgaattactggtgggggtaaat
+CVB3            --agattggcttaaccctactgtgctaaccgaaccagataacggtacagtaggggtaaat
+EV              gctaattggctcgaccctgtcacg-tatctggacgtgacataagcgtgacaggggtaaat
+EVA             ----tatacctcaaccccaccagg--gatctggtcgtgaatatgactggtgggggtaaat
+EVA114          ------------------------------------------------------------
+EVB             --taattggcttaaccctaccgcactaaccgaactagataacggtgcagtgggggtaaat
+EVC             -------------------------gaattggattgggtcatactgttgtaggggtaaat
+EVD             -cccaagaacccctccctggggcatta---------------gattttgtagaggtaaat
+EVD68           -ccaagttacagttactt--------------------------tcacttagaggtaaat
+                                                                            
+
+CVA2            ttgttat--aaccagaatagc
+CVB3            tctccgc--attcggtgcg--
+EV              ttagcac--aaccagagtgt-
+EVA             ttgttat--aaccagaatagc
+EVA114          ---------------------
+EVB             tctccgc--attcggtgcg--
+EVC             ttttctttaattcggag----
+EVD             tttggtt--aattgggaatc-
+EVD68           tttggtc--acttggggacc-
+                                     
