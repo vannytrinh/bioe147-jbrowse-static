@@ -1,0 +1,723 @@
+{
+  "assemblies": [
+    {
+      "name": "CVA2",
+      "sequence": {
+        "type": "ReferenceSequenceTrack",
+        "trackId": "CVA2-ReferenceSequenceTrack",
+        "adapter": {
+          "type": "IndexedFastaAdapter",
+          "fastaLocation": {
+            "uri": "CVA2.fa",
+            "locationType": "UriLocation"
+          },
+          "faiLocation": {
+            "uri": "CVA2.fa.fai",
+            "locationType": "UriLocation"
+          }
+        }
+      }
+    },
+    {
+      "name": "CVB3",
+      "sequence": {
+        "type": "ReferenceSequenceTrack",
+        "trackId": "CVB3-ReferenceSequenceTrack",
+        "adapter": {
+          "type": "IndexedFastaAdapter",
+          "fastaLocation": {
+            "uri": "CVB3.fa",
+            "locationType": "UriLocation"
+          },
+          "faiLocation": {
+            "uri": "CVB3.fa.fai",
+            "locationType": "UriLocation"
+          }
+        }
+      }
+    },
+    {
+      "name": "EVD68",
+      "sequence": {
+        "type": "ReferenceSequenceTrack",
+        "trackId": "EVD68-ReferenceSequenceTrack",
+        "adapter": {
+          "type": "IndexedFastaAdapter",
+          "fastaLocation": {
+            "uri": "EVD68.fa",
+            "locationType": "UriLocation"
+          },
+          "faiLocation": {
+            "uri": "EVD68.fa.fai",
+            "locationType": "UriLocation"
+          }
+        }
+      }
+    },
+    {
+      "name": "EVA114",
+      "sequence": {
+        "type": "ReferenceSequenceTrack",
+        "trackId": "EVA114-ReferenceSequenceTrack",
+        "adapter": {
+          "type": "IndexedFastaAdapter",
+          "fastaLocation": {
+            "uri": "EVA114.fa",
+            "locationType": "UriLocation"
+          },
+          "faiLocation": {
+            "uri": "EVA114.fa.fai",
+            "locationType": "UriLocation"
+          }
+        }
+      }
+    },
+    {
+      "name": "EV",
+      "sequence": {
+        "type": "ReferenceSequenceTrack",
+        "trackId": "EV-ReferenceSequenceTrack",
+        "adapter": {
+          "type": "IndexedFastaAdapter",
+          "fastaLocation": {
+            "uri": "EV.fa",
+            "locationType": "UriLocation"
+          },
+          "faiLocation": {
+            "uri": "EV.fa.fai",
+            "locationType": "UriLocation"
+          }
+        }
+      }
+    },
+    {
+      "name": "EVA",
+      "sequence": {
+        "type": "ReferenceSequenceTrack",
+        "trackId": "EVA-ReferenceSequenceTrack",
+        "adapter": {
+          "type": "IndexedFastaAdapter",
+          "fastaLocation": {
+            "uri": "EVA.fa",
+            "locationType": "UriLocation"
+          },
+          "faiLocation": {
+            "uri": "EVA.fa.fai",
+            "locationType": "UriLocation"
+          }
+        }
+      }
+    },
+    {
+      "name": "EVB",
+      "sequence": {
+        "type": "ReferenceSequenceTrack",
+        "trackId": "EVB-ReferenceSequenceTrack",
+        "adapter": {
+          "type": "IndexedFastaAdapter",
+          "fastaLocation": {
+            "uri": "EVB.fa",
+            "locationType": "UriLocation"
+          },
+          "faiLocation": {
+            "uri": "EVB.fa.fai",
+            "locationType": "UriLocation"
+          }
+        }
+      }
+    },
+    {
+      "name": "EVD",
+      "sequence": {
+        "type": "ReferenceSequenceTrack",
+        "trackId": "EVD-ReferenceSequenceTrack",
+        "adapter": {
+          "type": "IndexedFastaAdapter",
+          "fastaLocation": {
+            "uri": "EVD.fa",
+            "locationType": "UriLocation"
+          },
+          "faiLocation": {
+            "uri": "EVD.fa.fai",
+            "locationType": "UriLocation"
+          }
+        }
+      }
+    },
+    {
+      "name": "EVC",
+      "sequence": {
+        "type": "ReferenceSequenceTrack",
+        "trackId": "EVC-ReferenceSequenceTrack",
+        "adapter": {
+          "type": "IndexedFastaAdapter",
+          "fastaLocation": {
+            "uri": "EVC.fa",
+            "locationType": "UriLocation"
+          },
+          "faiLocation": {
+            "uri": "EVC.fa.fai",
+            "locationType": "UriLocation"
+          }
+        }
+      }
+    }
+  ],
+  "configuration": {},
+  "connections": [],
+  "defaultSession": {
+    "name": "New Session"
+  },
+  "tracks": [
+    {
+      "type": "FeatureTrack",
+      "trackId": "CVA2_genes.gff",
+      "name": "CVA2_genes.gff",
+      "adapter": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "uri": "CVA2_genes.gff.gz",
+          "locationType": "UriLocation"
+        },
+        "index": {
+          "location": {
+            "uri": "CVA2_genes.gff.gz.tbi",
+            "locationType": "UriLocation"
+          },
+          "indexType": "TBI"
+        }
+      },
+      "assemblyNames": [
+        "CVA2"
+      ]
+    },
+    {
+      "type": "FeatureTrack",
+      "trackId": "CVB3_genes.gff",
+      "name": "CVB3_genes.gff",
+      "adapter": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "uri": "CVB3_genes.gff.gz",
+          "locationType": "UriLocation"
+        },
+        "index": {
+          "location": {
+            "uri": "CVB3_genes.gff.gz.tbi",
+            "locationType": "UriLocation"
+          },
+          "indexType": "TBI"
+        }
+      },
+      "assemblyNames": [
+        "CVB3"
+      ]
+    },
+    {
+      "type": "FeatureTrack",
+      "trackId": "EVD68_genes.gff",
+      "name": "EVD68_genes.gff",
+      "adapter": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "uri": "EVD68_genes.gff.gz",
+          "locationType": "UriLocation"
+        },
+        "index": {
+          "location": {
+            "uri": "EVD68_genes.gff.gz.tbi",
+            "locationType": "UriLocation"
+          },
+          "indexType": "TBI"
+        }
+      },
+      "assemblyNames": [
+        "EVD68"
+      ]
+    },
+    {
+      "type": "FeatureTrack",
+      "trackId": "EVA114_genes.gff",
+      "name": "EVA114_genes.gff",
+      "adapter": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "uri": "EVA114_genes.gff.gz",
+          "locationType": "UriLocation"
+        },
+        "index": {
+          "location": {
+            "uri": "EVA114_genes.gff.gz.tbi",
+            "locationType": "UriLocation"
+          },
+          "indexType": "TBI"
+        }
+      },
+      "assemblyNames": [
+        "EVA114"
+      ]
+    },
+    {
+      "type": "FeatureTrack",
+      "trackId": "EV_genes.gff",
+      "name": "EV_genes.gff",
+      "adapter": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "uri": "EV_genes.gff.gz",
+          "locationType": "UriLocation"
+        },
+        "index": {
+          "location": {
+            "uri": "EV_genes.gff.gz.tbi",
+            "locationType": "UriLocation"
+          },
+          "indexType": "TBI"
+        }
+      },
+      "assemblyNames": [
+        "EV"
+      ]
+    },
+    {
+      "type": "FeatureTrack",
+      "trackId": "EVA_genes.gff",
+      "name": "EVA_genes.gff",
+      "adapter": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "uri": "EVA_genes.gff.gz",
+          "locationType": "UriLocation"
+        },
+        "index": {
+          "location": {
+            "uri": "EVA_genes.gff.gz.tbi",
+            "locationType": "UriLocation"
+          },
+          "indexType": "TBI"
+        }
+      },
+      "assemblyNames": [
+        "EVA"
+      ]
+    },
+    {
+      "type": "FeatureTrack",
+      "trackId": "EVB_genes.gff",
+      "name": "EVB_genes.gff",
+      "adapter": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "uri": "EVB_genes.gff.gz",
+          "locationType": "UriLocation"
+        },
+        "index": {
+          "location": {
+            "uri": "EVB_genes.gff.gz.tbi",
+            "locationType": "UriLocation"
+          },
+          "indexType": "TBI"
+        }
+      },
+      "assemblyNames": [
+        "EVB"
+      ]
+    },
+    {
+      "type": "FeatureTrack",
+      "trackId": "EVD_genes.gff",
+      "name": "EVD_genes.gff",
+      "adapter": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "uri": "EVD_genes.gff.gz",
+          "locationType": "UriLocation"
+        },
+        "index": {
+          "location": {
+            "uri": "EVD_genes.gff.gz.tbi",
+            "locationType": "UriLocation"
+          },
+          "indexType": "TBI"
+        }
+      },
+      "assemblyNames": [
+        "EVD"
+      ]
+    },
+    {
+      "type": "FeatureTrack",
+      "trackId": "EVC_genes.gff",
+      "name": "EVC_genes.gff",
+      "adapter": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "uri": "EVC_genes.gff.gz",
+          "locationType": "UriLocation"
+        },
+        "index": {
+          "location": {
+            "uri": "EVC_genes.gff.gz.tbi",
+            "locationType": "UriLocation"
+          },
+          "indexType": "TBI"
+        }
+      },
+      "assemblyNames": [
+        "EVC"
+      ]
+    },
+    {
+      "type": "SyntenyTrack",
+      "trackId": "EVA_vs_EV",
+      "name": "EVA_vs_EV",
+      "adapter": {
+        "type": "PAFAdapter",
+        "pafLocation": {
+          "uri": "EVA_vs_EV.paf",
+          "locationType": "UriLocation"
+        },
+        "assemblyNames": [
+          "EVA",
+          "EV"
+        ]
+      },
+      "assemblyNames": [
+        "EVA",
+        "EV"
+      ]
+    },
+    {
+      "type": "SyntenyTrack",
+      "trackId": "EVB_vs_EV",
+      "name": "EVB_vs_EV",
+      "adapter": {
+        "type": "PAFAdapter",
+        "pafLocation": {
+          "uri": "EVB_vs_EV.paf",
+          "locationType": "UriLocation"
+        },
+        "assemblyNames": [
+          "EVB",
+          "EV"
+        ]
+      },
+      "assemblyNames": [
+        "EVB",
+        "EV"
+      ]
+    },
+    {
+      "type": "SyntenyTrack",
+      "trackId": "EVC_vs_EV",
+      "name": "EVC_vs_EV",
+      "adapter": {
+        "type": "PAFAdapter",
+        "pafLocation": {
+          "uri": "EVC_vs_EV.paf",
+          "locationType": "UriLocation"
+        },
+        "assemblyNames": [
+          "EVC",
+          "EV"
+        ]
+      },
+      "assemblyNames": [
+        "EVC",
+        "EV"
+      ]
+    },
+    {
+      "type": "SyntenyTrack",
+      "trackId": "EVD_vs_EV",
+      "name": "EVD_vs_EV",
+      "adapter": {
+        "type": "PAFAdapter",
+        "pafLocation": {
+          "uri": "EVD_vs_EV.paf",
+          "locationType": "UriLocation"
+        },
+        "assemblyNames": [
+          "EVD",
+          "EV"
+        ]
+      },
+      "assemblyNames": [
+        "EVD",
+        "EV"
+      ]
+    },
+    {
+      "type": "SyntenyTrack",
+      "trackId": "EVA114_vs_EV",
+      "name": "EVA114_vs_EV",
+      "adapter": {
+        "type": "PAFAdapter",
+        "pafLocation": {
+          "uri": "EVA114_vs_EV.paf",
+          "locationType": "UriLocation"
+        },
+        "assemblyNames": [
+          "EVA114",
+          "EV"
+        ]
+      },
+      "assemblyNames": [
+        "EVA114",
+        "EV"
+      ]
+    },
+    {
+      "type": "SyntenyTrack",
+      "trackId": "EVD68_vs_EV",
+      "name": "EVD68_vs_EV",
+      "adapter": {
+        "type": "PAFAdapter",
+        "pafLocation": {
+          "uri": "EVD68_vs_EV.paf",
+          "locationType": "UriLocation"
+        },
+        "assemblyNames": [
+          "EVD68",
+          "EV"
+        ]
+      },
+      "assemblyNames": [
+        "EVD68",
+        "EV"
+      ]
+    },
+    {
+      "type": "SyntenyTrack",
+      "trackId": "EVA114_vs_EVA",
+      "name": "EVA114_vs_EVA",
+      "adapter": {
+        "type": "PAFAdapter",
+        "pafLocation": {
+          "uri": "EVA114_vs_EVA.paf",
+          "locationType": "UriLocation"
+        },
+        "assemblyNames": [
+          "EVA114",
+          "EVA"
+        ]
+      },
+      "assemblyNames": [
+        "EVA114",
+        "EVA"
+      ]
+    },
+    {
+      "type": "SyntenyTrack",
+      "trackId": "EVD68_vs_EVD",
+      "name": "EVD68_vs_EVD",
+      "adapter": {
+        "type": "PAFAdapter",
+        "pafLocation": {
+          "uri": "EVD68_vs_EVD.paf",
+          "locationType": "UriLocation"
+        },
+        "assemblyNames": [
+          "EVD68",
+          "EVD"
+        ]
+      },
+      "assemblyNames": [
+        "EVD68",
+        "EVD"
+      ]
+    }
+  ],
+  "aggregateTextSearchAdapters": [
+    {
+      "type": "TrixTextSearchAdapter",
+      "textSearchAdapterId": "hg38-index",
+      "ixFilePath": {
+        "uri": "trix/hg38.ix",
+        "locationType": "UriLocation"
+      },
+      "ixxFilePath": {
+        "uri": "trix/hg38.ixx",
+        "locationType": "UriLocation"
+      },
+      "metaFilePath": {
+        "uri": "trix/hg38_meta.json",
+        "locationType": "UriLocation"
+      },
+      "assemblyNames": [
+        "hg38"
+      ]
+    },
+    {
+      "type": "TrixTextSearchAdapter",
+      "textSearchAdapterId": "CVA2-index",
+      "ixFilePath": {
+        "uri": "trix/CVA2.ix",
+        "locationType": "UriLocation"
+      },
+      "ixxFilePath": {
+        "uri": "trix/CVA2.ixx",
+        "locationType": "UriLocation"
+      },
+      "metaFilePath": {
+        "uri": "trix/CVA2_meta.json",
+        "locationType": "UriLocation"
+      },
+      "assemblyNames": [
+        "CVA2"
+      ]
+    },
+    {
+      "type": "TrixTextSearchAdapter",
+      "textSearchAdapterId": "CVB3-index",
+      "ixFilePath": {
+        "uri": "trix/CVB3.ix",
+        "locationType": "UriLocation"
+      },
+      "ixxFilePath": {
+        "uri": "trix/CVB3.ixx",
+        "locationType": "UriLocation"
+      },
+      "metaFilePath": {
+        "uri": "trix/CVB3_meta.json",
+        "locationType": "UriLocation"
+      },
+      "assemblyNames": [
+        "CVB3"
+      ]
+    },
+    {
+      "type": "TrixTextSearchAdapter",
+      "textSearchAdapterId": "EVD68-index",
+      "ixFilePath": {
+        "uri": "trix/EVD68.ix",
+        "locationType": "UriLocation"
+      },
+      "ixxFilePath": {
+        "uri": "trix/EVD68.ixx",
+        "locationType": "UriLocation"
+      },
+      "metaFilePath": {
+        "uri": "trix/EVD68_meta.json",
+        "locationType": "UriLocation"
+      },
+      "assemblyNames": [
+        "EVD68"
+      ]
+    },
+    {
+      "type": "TrixTextSearchAdapter",
+      "textSearchAdapterId": "EVA114-index",
+      "ixFilePath": {
+        "uri": "trix/EVA114.ix",
+        "locationType": "UriLocation"
+      },
+      "ixxFilePath": {
+        "uri": "trix/EVA114.ixx",
+        "locationType": "UriLocation"
+      },
+      "metaFilePath": {
+        "uri": "trix/EVA114_meta.json",
+        "locationType": "UriLocation"
+      },
+      "assemblyNames": [
+        "EVA114"
+      ]
+    },
+    {
+      "type": "TrixTextSearchAdapter",
+      "textSearchAdapterId": "EV-index",
+      "ixFilePath": {
+        "uri": "trix/EV.ix",
+        "locationType": "UriLocation"
+      },
+      "ixxFilePath": {
+        "uri": "trix/EV.ixx",
+        "locationType": "UriLocation"
+      },
+      "metaFilePath": {
+        "uri": "trix/EV_meta.json",
+        "locationType": "UriLocation"
+      },
+      "assemblyNames": [
+        "EV"
+      ]
+    },
+    {
+      "type": "TrixTextSearchAdapter",
+      "textSearchAdapterId": "EVA-index",
+      "ixFilePath": {
+        "uri": "trix/EVA.ix",
+        "locationType": "UriLocation"
+      },
+      "ixxFilePath": {
+        "uri": "trix/EVA.ixx",
+        "locationType": "UriLocation"
+      },
+      "metaFilePath": {
+        "uri": "trix/EVA_meta.json",
+        "locationType": "UriLocation"
+      },
+      "assemblyNames": [
+        "EVA"
+      ]
+    },
+    {
+      "type": "TrixTextSearchAdapter",
+      "textSearchAdapterId": "EVB-index",
+      "ixFilePath": {
+        "uri": "trix/EVB.ix",
+        "locationType": "UriLocation"
+      },
+      "ixxFilePath": {
+        "uri": "trix/EVB.ixx",
+        "locationType": "UriLocation"
+      },
+      "metaFilePath": {
+        "uri": "trix/EVB_meta.json",
+        "locationType": "UriLocation"
+      },
+      "assemblyNames": [
+        "EVB"
+      ]
+    },
+    {
+      "type": "TrixTextSearchAdapter",
+      "textSearchAdapterId": "EVD-index",
+      "ixFilePath": {
+        "uri": "trix/EVD.ix",
+        "locationType": "UriLocation"
+      },
+      "ixxFilePath": {
+        "uri": "trix/EVD.ixx",
+        "locationType": "UriLocation"
+      },
+      "metaFilePath": {
+        "uri": "trix/EVD_meta.json",
+        "locationType": "UriLocation"
+      },
+      "assemblyNames": [
+        "EVD"
+      ]
+    },
+    {
+      "type": "TrixTextSearchAdapter",
+      "textSearchAdapterId": "EVC-index",
+      "ixFilePath": {
+        "uri": "trix/EVC.ix",
+        "locationType": "UriLocation"
+      },
+      "ixxFilePath": {
+        "uri": "trix/EVC.ixx",
+        "locationType": "UriLocation"
+      },
+      "metaFilePath": {
+        "uri": "trix/EVC_meta.json",
+        "locationType": "UriLocation"
+      },
+      "assemblyNames": [
+        "EVC"
+      ]
+    }
+  ]
+}
